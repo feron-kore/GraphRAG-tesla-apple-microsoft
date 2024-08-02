@@ -1,0 +1,7818 @@
+January 25, 2023 07:24 AM GMT
+MORGAN STANLEY & CO. LLC
+
+Microsoft | North America
+
+Keith Weiss, CFA
+
+2Q23 Results – Seeing the
+Secular Light at the End of the
+Cyclical Tunnel
+Stock Rating
+
+Overweight
+
+Industry View
+
+Attractive
+
+Price Target
+
+$307.00
+
+EQUITY ANALYST
+Keith.Weiss@morganstanley.com
+
++1 212 761-4149
+
+Josh Baer, CFA
+EQUITY ANALYST
+Josh.Baer@morganstanley.com
+
++1 212 761-4223
+
+Ryan A Bressner
+RESEARCH ASSOCIATE
+Ryan.Bressner@morganstanley.com
+
++1 212 761-5882
+
+Fiona G Hynes
+RESEARCH ASSOCIATE
+Fiona.Hynes@morganstanley.com
+
++1 212 761-5444
+
+Angie Song
+RESEARCH ASSOCIATE
+Angie.Song@morganstanley.com
+
++1 212 761-4336
+
+Theodor J Thun
+
+Near-term cyclical impacts on Azure create an attractive entry
+point into one of the best secular growth stories in tech.
+Easing compares, price increases, waning FX headwinds and
+decelerating opex all work to accelerate EPS growth to double
+digits by Q4, which should bring investors back to MSFT.
+Two Steps Needed for the Clearing Event, Q2 Brought an Important One.
+Coming out of a disappointing Q1 print, there were two high-level questions
+investors wanted resolved before getting back on board with MSFT: 1) where
+(and when) does the deceleration in Azure growth stabilize?; and 2) after six
+straight years of operating margin expansion, does the company still have the
+capability to protect EPS as growth slows? After the Q2 print, the first question
+remains unresolved – while Azure growth of 38% YoY constant currency (cc) for
+the quarter came in ahead of guidance and investor expectations of 35-36% cc
+growth, management's commentary on a weakening of growth trends in
+December (to mid-30's cc growth) and a guide for a further 4-5% point
+deceleration from those levels in the March quarter (implying 30-31% cc growth)
+came in below expectations and, more importantly, failed to show any
+moderation in the pace of deceleration. That said, the company did more strongly
+argue the near-term impacts (increasing optimization of existing Cloud spend)
+were cyclical in nature, there were no changes in competitive dynamics and the
+underlying secular trends remain firmly intact. If anything, the faster pace of
+development in AI functionality is further expanding the market opportunity
+ahead of Azure. Additionally, CEO Satya Nadella did place some bounds on the
+duration they expect these optimization impacts to last, noting, "I don't think we're
+going to take 2 years to optimize, but we're going to take this year to optimize." On
+the second question, the company more clearly laid out the potential for further
+leverage at Microsoft – a more moderated expansion in headcount in Q2 (up <1%
+QoQ), combined with the restructuring expected to take headcount down by
+~10,000 through the course of Q3, puts the company's anticipated opex growth
+for Q4 in the low single digits in constant currency. With the management team
+guiding to ~6% cc revenue growth in Q3, FX headwinds turning neutral by Q4
+based on current rates, compares further easing and Cloud price increases
+starting on April 1, we see a clear path to operating margins returning to
+expansion in Q4. Our current model forecasts 8.4% YoY revenue growth against
+
+RESEARCH ASSOCIATE
+Theo.Thun@morganstanley.com
+
++1 212 761-5356
+
+Microsoft ( MSFT.O, MSFT US )
+Software / United States of America
+Stock Rating
+Industry View
+Price target
+Shr price, close (Jan 24, 2023)
+Mkt cap, curr (mm)
+52-Week Range
+
+Overweight
+Attractive
+$307.00
+$242.04
+$1,808,765
+$315.95-213.43
+
+Fiscal Year Ending
+
+06/22 06/23e 06/24e 06/25e
+
+ModelWare EPS ($)
+Prior ModelWare EPS
+($)
+P/E
+EPS ($)§
+Div yld (%)
+
+9.21
+-
+
+9.29
+9.51
+
+11.15
+11.22
+
+13.17
+13.30
+
+27.9
+9.29
+1.0
+
+26.1
+9.55
+1.1
+
+21.7
+11.13
+1.2
+
+18.4
+13.07
+1.4
+
+Unless otherwise noted, all metrics are based on Morgan Stanley ModelWare
+framework
+§ = Consensus data is provided by Refinitiv Estimates
+e = Morgan Stanley Research estimates
+
+QUARTERLY MODELWARE EPS ($)
+2023e
+2023e
+Quarter
+2022
+Prior Current
+Q1
+2.27
+2.35a
+Q2
+2.48
+2.17a
+Q3
+2.22
+2.38
+2.23
+Q4
+2.23
+2.51
+2.55
+
+2024e
+Prior
+2.68
+2.67
+2.87
+3.00
+
+2024e
+Current
+2.74
+2.64
+2.72
+3.06
+
+e = Morgan Stanley Research estimates, a = Actual Company reported data
+
+Morgan Stanley does and seeks to do business with
+companies covered in Morgan Stanley Research. As a
+result, investors should be aware that the firm may have a
+conflict of interest that could affect the objectivity of
+Morgan Stanley Research. Investors should consider
+Morgan Stanley Research as only a single factor in making
+their investment decision.
+For analyst certification and other important disclosures,
+refer to the Disclosure Section, located at the end of this
+report.
+
+1
+
+2% YoY total expense growth driving almost 200 bps of operating margin
+expansion in Q4 and a return to mid-teens EPS growth. Bottom line, while
+investors did not get everything they wanted in the Q2 print, a clear road map
+back to mid-teens EPS growth and the solid positioning of Microsoft against the
+most compelling secular demand trends in tech (see our note, "Microsoft: 4Q22
+CIO Survey Takeaways — Not Immune to the Macro, But Well Positioned for the
+Secular", 01/11/23) with the stock trading at 20x our CY24 EPS estimates
+represents an attractive risk/reward for MSFT, remain OW.
+Exhibit 1: MSFT Trading in Line With Historical Average PEG Ratio
+MSFT 5-Yr Price to NTM EPS Growth
+(PEG)
+2.6x
+2.4x
+2.2x
+2.0x
+1.8x
+1.6x
+1.4x
+1.2x
+1.0x
+
+Source: Refinitiv, Morgan Stanley Research
+
+What We Liked:
+Azure Growth of +38% YoY Beat Guidance and the Buyside Whisper.
+Azure growth of +38% YoY in constant currency (cc) beat management's
+guidance looking for +37% cc growth and came in ahead of investor
+expectations looking for a 1-2pt miss vs. guidance.
+Office 365 Commercial Accelerated vs. Last Q and Beat Expectations.
+O365 Commercial grew 18% in cc, ahead of the 17% YoY growth in cc from
+Q1 and ahead of management's expectations. Strength was balanced
+across seats and ARPU, with upgrades to the premium E5 SKU remaining a
+durable driver.
+Productivity and Business Processes and Intelligent Cloud (the HighValue Commercial Segments) Beat the Midpoint of Guidance, Even After
+Adjusting the Guidance Ranges for a Lower FX Headwind. Productivity
+and Business Processes (PBP) revenue of $17.0 billion, +7% YoY / +13% in
+cc, came in toward the high end of the updated guidance range looking for
+$16.72-$17.02 billion. Intelligent Cloud (IC) revenue of $21.51 billion, +18%
+YoY/ +24% in cc, came in toward the high end of the updated guidance
+range looking for $21.27-$21.57 billion.
+Margins and EPS Beat Consensus in 2Q23. Gross margins of 67.1% slightly
+beat MSe/consensus expectations for 66.9%/67.0%, with a more
+substantial ~120bps beat to operating margins, at 40.9% vs. MS/consensus
+at 39.7%. Opex came in roughly $500 million below the mid-point of the
+guidance range, enabling EPS of $2.32 to beat MS/consensus looking for
+$2.27 / $2.30, with moderating expense growth offsetting additional
+pressures seen in More Personal Computing revenue.
+2
+
+Rightsizing Expenses to Defend Margins. Last quarter, management
+guided operating margins down 1pt YoY in USD, which included the $3.7
+billion benefit from lower depreciation from the useful life accounting
+change. Now management is guiding down 2pts YoY in USD, but this
+excludes the accounting change as well as the restructuring change. After
+adding in the $3.7B accounting change, when the like-to-like operating
+margin guidance on a reported basis actually improves – from down 1%
+YoY to roughly flat. This improvement can partially be explained by $300
+million less of a negative impact from energy costs, some modest
+favorable FX movement since last Q and the recently announced
+restructuring being executed on through Q3. The remaining improvement
+stems from the recently announced restructuring and spend moderation.
+Bottom line, the company is holding the line on margins, even against a
+weaker top line.
+Areas to Monitor:
+Total Revenue Missed Consensus in Q2 and in Q3 Guidance. Weaker-thanexpected growth in Windows Commercial, Devices and Gaming contributed
+to More Personal Computing revenues of $14.2 billion (down 19% YoY or 16% cc) coming in $500 million shy of the mid-point of management's $14.5
+to $14.9 billion revenue guide and pulled total revenues of $52.7 billion
+(+2% YoY or +7% cc) slightly below consensus expectations of $52.9
+billion. The company's Q3 guide anticipates the headwinds to More
+Personal Computing persist (guided down 17% YoY at the mid-point), along
+with further deceleration in Azure, leaving the mid-point of the total
+revenue guide at $50.95 billion (+3% YoY or +6% cc) shy of consensus
+expectations of $52.5 billion.
+Despite Q2 Azure Strength, Azure Decelerated Exiting the Quarter and
+Forward Azure Growth Guidance of 30-31% YoY in CC Fell Below
+Investor Expectations. Azure growth exited Q2 in the mid-30%'s in
+constant currency and management guided to another 4-5% deceleration
+from those levels, implying a 7-8% deceleration vs. the 38% in cc from Q1.
+We lower our near-term Azure forecasts and now model 27% cc growth in
+Q4 and 1H24.
+Stepping Away from 20% CC Commercial Revenue Growth. With the
+expectation of deteriorating business trends the company saw in December
+to continue into Q3, Microsoft noted the 20% constant currency growth it
+achieved in 1H23 would decelerate in 2H23, implying they will fall short of
+the 20% constant currency commercial revenue growth outlook for FY23.
+Microsoft also failed to reiterate its double-digit constant currency
+revenue and operating income target for FY23.
+More Personal Computing Worse Than Expected, Down 16% YoY in
+Constant Currency; Q3 Guidance Implies -17% YoY Reported Growth.
+PC Market Continues to Negatively Impact Windows OEM and Devices.
+Windows OEM and Devices revenue both declined 39%% YoY, and Q3
+commentary suggests Windows OEM down mid-to-high 30%'s and Devices
+3
+
+down mid-40%'s.
+
+Windows Commercial Products and Cloud Services Disappointed. Weaker
+new business moderation impacted Windows Commercial more significantly
+than other KPI's given higher mix of upfront revenue recognition under ASC 606
+creating more volatility. Revenue growth of -3% reported missed our
+expectation for +5% YoY growth.
+
+Lower Revenue and Lower Opex Increases Operating Margins Off a Smaller Top
+Line, Mitigating Negative EPS Revision to ~1%. With management detailing more
+challenging demand trends from December continuing into Q3, we lower our
+revenue estimates 1.4% / 3.2% / 3.4% in FY23/FY24 and FY25. However, following
+the shift in investment philosophy and the restructuring, we lower opex by
+2%/9.5%/9.7% in our forecast years, leading to stronger operating margins off a
+lower revenue base, causing only a 1% decline in EPS forecasts.
+
+4
+
+H
+
+Risk Reward – Microsoft (MSFT.O)
+Navigating Through Choppy Seas, Great Long Term Story
+OVERWEIGHT THESIS
+
+PRICE TARGET $307.00
+~25x Base Case CY24e GAAP EPS of $12.13; Trading at ~20x EPS, MSFT trades at a discount
+to >$50 billion market-cap software peers growing EPS double-digits.
+$291.64
+
+Consensus Price Target Distribution
+
+$212.00
+
+$411.00
+
+MS PT
+
+Source: Refinitiv, Morgan Stanley Research
+
+Mean
+
+Morgan Stanley Estimates
+
+RISK REWARD CHART AND OPTIONS IMPLIED PROBABILITIES (12M)
+USD
+
+▪ Strong positioning for public cloud
+
+adoption, large distribution channels and
+installed customer base, and improving
+margins support growth. Although heavier
+cyclical environment is weighing on the NT
+results, the long term path remain durable.
+This is supported by Azure , data center
+(share gains and positive pricing trends),
+O365 and LinkedIn. GM % improvement,
+opex discipline and strong capital return
+lead to durable teens total return profile
+long term .
+At ~20x CY24e GAAP EPS, MSFT trades
+at a discount to the large cap peers,
+unwarranted due to MSFT's premium return
+profile. Multiple expansion will likely come
+from more comfort in durability of
+commercial business gross profit dollars.
+
+▪
+$377.00(+55.76%)
+$377.00
+(+55.76%)
+(+55.76%)
+
+Prob (>377.00)~2.9%
+
+400
+
+$307.00(+26.84%)
+$307.00
+(+26.84%)
+(+26.84%)
+300
+
+Prob (>307.00)~19.5%
+
+$242.04
+
+Consensus Rating Distribution
+
+200
+
+$182.00(-24.81%)
+$182.00
+(-24.81%)
+(-24.81%)
+
+88% Overweight
+10% Equal-weight
+2% Underweight
+
+Prob (<182.00)~14.5%
+
+100
+
+MS Rating
+0
+JAN '22
+
+Key:
+
+JUL '22
+
+Historical Stock Performance
+
+JAN '23
+
+Current Stock Price
+
+Source: Refinitiv, Morgan Stanley Research
+
+JAN '24
+
+Price Target
+
+Source: Refinitiv, Morgan Stanley Research, Morgan Stanley Institutional Equities Division. The probabilities of our Bull,
+Base, and Bear case scenarios playing out were estimated with implied volatility data from the options market as of 24
+Jan, 2023. All figures are approximate risk-neutral probabilities of the stock reaching beyond the scenario price in either
+three-months’ or one-years’ time. View explanation of Options Probabilities methodology here
+
+BULL CASE
+
+$377.00
+
+BASE CASE
+
+$307.00
+
+Risk Reward Themes
+Secular Growth:
+New Data Era:
+
+Positive
+Positive
+
+View descriptions of Risk Rewards Themes here
+
+BEAR CASE
+
+$182.00
+
+~27x Bull Case CY24e EPS: $13.93
+
+~25x Base Case CY24e EPS of $12.13
+
+~17x Bear Case CY24e EPS: $10.83
+
+Azure and O365 Drive Top-Line
+Growth. Intelligent Cloud, driven by rapid
+Azure adoption and sustained legacy and
+hybrid Server growth, supports near-term
+rev growth in the mid to high-teens %.
+Adoption of higher priced O365 Commercial
+SKUs and LinkedIn further drive PBP
+revenues. Operating margins expand to
+~45% and CY24e EPS is $13.93. ~27x PE is at
+a premium to large cap software peers.
+
+Durability of Growth — Continuing the
+Momentum: Top line drivers include Azure
+(winning in public cloud), O365, Dynamic
+365, and LinkedIn. Op margins expand to
+~43% in CY24. Double-digit CY23-CY25 EPS
+growth and a ~1.2% div yld drive a mid to
+high-teens total return profile and CY24e
+EPS of $12.13. Trading at ~20x EPS, MSFT
+trades at a discount to >$50B market-cap
+software peers growing EPS double digits.
+
+Commercial Cloud Growth Decelerates
+Significantly. Slower cloud growth drags on
+PBP and IC segment growth; MPC declines
+from current levels. Total revenue grows in
+the high single digits over the near-term.
+Operating margins reach ~41% in CY24e
+yielding CY24e EPS of $10.83. ~17x multiple
+is at a discount to large cap software peers.
+
+5
+
+H
+
+Risk Reward – Microsoft (MSFT.O)
+KEY EARNINGS INPUTS
+Drivers
+
+2022
+
+2023e
+
+2024e
+
+2025e
+
+Azure Revenue Growth (%)
+
+45.2
+
+29.6
+
+29.6
+
+31.6
+
+Server Products On-Prem Growth (%) 4.3
+
+(1.2)
+
+2.0
+
+1.8
+
+Gross Margins (%)
+
+68.4
+
+68.4
+
+68.9
+
+69.3
+
+Operating Margins (%)
+
+42.1
+
+41.3
+
+42.8
+
+43.2
+
+GAAP EPS Growth (%)
+
+14.4
+
+2.6
+
+18.1
+
+18.1
+
+INVESTMENT DRIVERS
+Sustainability of commercial growth, cloud
+momentum, improving cloud margins
+Improving PC data points
+
+APAC, ex Japan, Mainland
+0-10% China and India
+0-10% India
+0-10% Japan
+0-10% Latin America
+0-10% MEA
+0-10% Mainland China
+0-10% UK
+10-20% Europe ex UK
+50-60% North America
+
+BEST
+
+MOST
+
+FY Jun 2023e
+
+Weak macro impacting global PC sales
+On-premises cannibalization by Cloud
+Increased investments hurt margin expansion
+Activision Blizzard acquisition fails to be
+accretive
+
+210,033
+
+Sales /
+Revenue
+($, mm)
+
+205,383
+
+EBITDA
+($, mm)
+
+98,381
+
+Net income
+($, mm)
+
+67,546
+
+222,045
+212,157
+100,277
+
+Inst. Owners, % Active
+
+58.9%
+
+HF Sector Long/Short Ratio
+
+2.1x
+
+HF Sector Net Exposure
+
+30%
+
+Refinitiv; MSPB Content. Includes certain hedge fund
+exposures held with MSPB. Information may be
+inconsistent with or may not reflect broader market
+trends. Long/Short Ratio = Long Exposure / Short
+exposure. Sector % of Total Net Exposure = (For a
+particular sector: Long Exposure - Short Exposure) /
+(Across all sectors: Long Exposure – Short Exposure).
+
+3 Month
+Horizon
+
+Source: Refinitiv, FactSet, Morgan Stanley Research; 1 is
+the highest favored Quintile and 5 is the least favored
+Quintile
+
+EPS
+($)
+
+105,637
+101,513
+70,602
+75,058
+71,171
+
+OWNERSHIP POSITIONING
+
+MS ALPHA MODELS
+
+2/5
+
+RISKS TO UPSIDE
+
+RISKS TO DOWNSIDE
+
+Source: Morgan Stanley Research Estimate
+View explanation of regional hierarchies here
+
+24 Month
+Horizon
+
+MS ESTIMATES VS. CONSENSUS
+
+Operational efficiencies leading to greater than
+anticipated economies of scale
+Cloud adoption accelerates, with Azure as
+convincing winner
+Activision Blizzard acquisition results strong
+earnings accretion from the very beginning
+
+GLOBAL REVENUE EXPOSURE
+
+3/5
+
+RISKS TO PT/RATING
+
+9.45
+9.23
+
+10.01
+9.55
+
+Mean
+
+Morgan Stanley Estimates
+
+Source: Refinitiv, Morgan Stanley Research
+
+SUSTAINABILITY & ESG
+Indicator of Change
+
+-0.38
+
+Disclosure Rate
+
+64%
+
++1.0
+
+-1.0
+
+6
+
+Analysis
+Exhibit 2: Model Changes
+FY22
+
+FQ1:23
+
+FQ2:23e
+
+FQ3:23e
+
+FQ4:23e
+
+FY23e
+
+FY24e
+
+FY25e
+
+Total Revenue
+
+$198.27B
+
+$50.12B
+
+$52.75B
+
+$50.94B
+
+$56.23B
+
+$210.03B
+
+$237.22B
+
+$275.53B
+
+YoY Change
+Old Total Revenue
+% Change
+
+18.0%
+$198.27B
+0.0%
+
+10.6%
+$50.12B
+0.0%
+
+2.0%
+$52.84B
+-0.2%
+
+3.2%
+$52.76B
+-3.4%
+
+8.4%
+$57.27B
+-1.8%
+
+5.9%
+$212.99B
+-1.4%
+
+12.9%
+$244.99B
+-3.2%
+
+16.1%
+$285.16B
+-3.4%
+
+Total Gross Margin
+
+68.4%
+
+69.2%
+
+66.8%
+
+69.1%
+
+68.4%
+
+68.4%
+
+68.9%
+
+69.3%
+
+Old Gross Margin
+New vs. Old
+
+68.4%
+0.0%
+
+69.2%
+0.0%
+
+66.9%
+0.0%
+
+69.0%
+0.1%
+
+68.4%
+0.0%
+
+68.4%
+0.0%
+
+69.1%
+-0.1%
+
+69.5%
+-0.2%
+
+Operating Expense
+YoY Change
+Old Operating Expense
+% Change
+
+$52.24B
+
+$13.15B
+
+$13.69B
+
+$14.75B
+
+$15.20B
+
+$56.79B
+
+$62.07B
+
+$71.90B
+
+13.7%
+$52.24B
+0.0%
+
+15.0%
+$13.15B
+0.0%
+
+9.3%
+$14.35B
+-4.6%
+
+10.2%
+$14.45B
+2.1%
+
+2.0%
+$16.09B
+-5.5%
+
+8.7%
+$58.04B
+-2.2%
+
+9.3%
+$68.56B
+-9.5%
+
+15.8%
+$79.63B
+-9.7%
+
+Operating Income
+Operating Margin
+
+$83.38B
+42.1%
+
+$21.52B
+42.9%
+
+$21.57B
+40.9%
+
+$20.45B
+40.2%
+
+$23.25B
+41.4%
+
+$86.80B
+41.3%
+
+$101.48B
+42.8%
+
+$118.94B
+43.2%
+
+Old Operating Income
+Old Operating Margin
+% Change in Op. Income
+
+$83.38B
+42.1%
+0.0%
+
+$21.52B
+42.9%
+0.0%
+
+$20.99B
+39.7%
+2.7%
+
+$21.94B
+41.6%
+-6.8%
+
+$23.11B
+40.3%
+0.6%
+
+$87.55B
+41.1%
+-0.9%
+
+$100.62B
+41.1%
+0.9%
+
+$118.56B
+41.6%
+0.3%
+
+EPS
+
+$9.21
+
+$2.35
+
+$2.32
+
+$2.23
+
+$2.55
+
+$9.45
+
+$11.15
+
+$13.17
+
+Old EPS
+% Change
+
+$9.21
+0.0%
+
+$2.35
+0.0%
+
+$2.27
+2.4%
+
+$2.38
+-6.6%
+
+$2.51
+1.5%
+
+$9.51
+-0.7%
+
+$11.22
+-0.6%
+
+$13.30
+-1.0%
+
+Total FCF
+
+$65.1B
+
+$16.9B
+
+$4.9B
+
+$24.0B
+
+$21.9B
+
+$67.7B
+
+$74.4B
+
+$90.9B
+
+YoY Change
+Old FCF
+% Change
+
+16%
+$65.1B
+0.0%
+
+-10%
+$16.9B
+0.0%
+
+-43%
+$8.4B
+-42.0%
+
+20%
+$18.3B
+30.9%
+
+23%
+$22.2B
+-1.3%
+
+4%
+$65.9B
+2.8%
+
+10%
+$72.8B
+2.2%
+
+22%
+$90.0B
+1.1%
+
+Unearned Revenue
+
+$48.41B
+
+$43.89B
+
+$39.63B
+
+$38.74B
+
+$50.40B
+
+$50.40B
+
+$53.06B
+
+$55.67B
+
+YoY Change
+
+10%
+
+4%
+
+5%
+
+5%
+
+Source: Company data, Morgan Stanley Research estimates
+
+7
+
+Financials
+Exhibit 3: MSFT: Income Statement
+Net Revenue
+% YoY Growth
+% QoQ Growth
+Net Revenue c.c
+% YoY Growth c.c
+
+FY
+2020
+$143,015
+13.6%
+
+FY
+2021
+$168,088
+17.5%
+
+FY
+2022
+$198,270
+18.0%
+
+Sep-22
+$50,122
+10.6%
+-3.4%
+$52,568
+16.0%
+
+Dec-22
+$52,747
+2.0%
+5.2%
+$55,349
+7.0%
+
+Mar-23E
+$50,938
+3.2%
+-3.4%
+$52,419
+6.2%
+
+Jun-23E
+$56,226
+8.4%
+10.4%
+$56,226
+8.4%
+
+FY
+2023E
+$210,033
+5.9%
+
+Sep-23E
+$55,459
+10.6%
+-1.4%
+
+Dec-23E
+$58,554
+11.0%
+5.6%
+
+Mar-24E
+$58,575
+15.0%
+0.0%
+
+Jun-24E
+$64,635
+15.0%
+10.3%
+
+FY
+2024E
+$237,223
+12.9%
+
+FY
+2025E
+$275,528
+16.1%
+
+FY
+2026E
+$319,399
+15.9%
+
+FY
+2027E
+$370,834
+16.1%
+
+$145,025
+
+$164,586
+
+$200,277
+
+Cost of Goods Sold
+% YoY Growth
+GrossProfit
+Gross Margin
+Gross Profit Growth
+Amort of Intang. From LNKD Acquisition (COGS)
+Adjusted Gross Margin ex-LNKD amort of int.
+
+$46,078
+7%
+$96,937
+67.8%
+16.9%
+$880
+68.4%
+
+$52,232
+13%
+$115,856
+68.9%
+19.5%
+$880
+69.4%
+
+$62,650
+20%
+$135,620
+68.4%
+17.1%
+$880
+68.8%
+
+$15,452
+13%
+$34,670
+69.2%
+9.5%
+$220
+69.6%
+
+$17,488
+3%
+$35,259
+66.8%
+1.4%
+$220
+67.3%
+
+$15,732
+1%
+$35,206
+69.1%
+4.3%
+$220
+69.5%
+
+$17,773
+8%
+$38,452
+68.4%
+8.5%
+$220
+68.8%
+
+$216,562
+8.1%
+$66,446
+6%
+$143,587
+68.4%
+5.9%
+$880
+68.8%
+
+$16,651
+8%
+$38,808
+70.0%
+11.9%
+$220
+70.4%
+
+$18,789
+7%
+$39,765
+67.9%
+12.8%
+$220
+68.3%
+
+$17,941
+14%
+$40,634
+69.4%
+15.4%
+$220
+69.7%
+
+$20,292
+14%
+$44,344
+68.6%
+15.3%
+$220
+68.9%
+
+$73,672
+11%
+$163,551
+68.9%
+13.9%
+$880
+69.3%
+
+$84,688
+15%
+$190,840
+69.3%
+16.7%
+$880
+69.6%
+
+$97,746
+15%
+$221,653
+69.4%
+16.1%
+$880
+69.7%
+
+$111,854
+14%
+$258,979
+69.8%
+16.8%
+$880
+70.1%
+
+Research & Development
+% of Revenue
+% YoY Growth
+Sales and Marketing
+% of Revenue
+% YoY Growth
+General & Administrative
+% of Revenue
+% YoY Growth
+One-Time Charges
+Total Operating Expenses
+% of Revenue
+% YoY Growth
+Operating Income
+Operating Margin
+% YoY Growth
+
+$19,269
+13.5%
+14.2%
+$19,598
+13.7%
+7.6%
+$5,111
+3.6%
+4.6%
+$0
+$43,978
+30.8%
+10.0%
+$52,959
+37.0%
+23.3%
+
+$20,716
+12.3%
+7.5%
+$20,117
+12.0%
+2.6%
+$5,107
+3.0%
+-0.1%
+$0
+$45,940
+27.3%
+4.5%
+$69,916
+41.6%
+32.0%
+
+$24,512
+12.4%
+18.3%
+$21,825
+11.0%
+8.5%
+$5,900
+3.0%
+15.5%
+$0
+$52,237
+26.3%
+13.7%
+$83,383
+42.1%
+19.3%
+
+$6,628
+13.2%
+18.4%
+$5,126
+10.2%
+12.7%
+$1,398
+2.8%
+8.6%
+$0
+$13,152
+26.2%
+15.0%
+$21,518
+42.9%
+6.3%
+
+$6,844
+13.0%
+18.9%
+$5,679
+10.8%
+5.6%
+$2,337
+4.4%
+68.9%
+($1,171)
+$13,689
+26.0%
+9.3%
+$21,570
+40.9%
+-3.0%
+
+$7,017
+13.8%
+11.3%
+$5,825
+11.4%
+4.1%
+$1,909
+3.7%
+29.0%
+$0
+$14,751
+29.0%
+10.2%
+$20,455
+40.2%
+0.4%
+
+$7,228
+12.9%
+5.5%
+$6,131
+10.9%
+-2.7%
+$1,840
+3.3%
+5.2%
+$0
+$15,199
+27.0%
+2.0%
+$23,253
+41.4%
+13.2%
+
+$27,717
+13.2%
+13.1%
+$22,761
+10.8%
+4.3%
+$7,484
+3.6%
+26.9%
+($1,171)
+$56,791
+27.0%
+8.7%
+$86,796
+41.3%
+4.1%
+
+$6,959
+12.5%
+5.0%
+$5,389
+9.7%
+5.1%
+$1,464
+2.6%
+4.7%
+$0
+$13,812
+24.9%
+5.0%
+$24,996
+45.1%
+16.2%
+
+$7,267
+12.4%
+6.2%
+$6,011
+10.3%
+5.9%
+$2,477
+4.2%
+6.0%
+$0
+$15,755
+26.9%
+15.1%
+$24,010
+41.0%
+11.3%
+
+$7,571
+12.9%
+7.9%
+$6,288
+10.7%
+8.0%
+$2,078
+3.5%
+8.9%
+$0
+$15,938
+27.2%
+8.0%
+$24,696
+42.2%
+20.7%
+
+$7,857
+12.2%
+8.7%
+$6,693
+10.4%
+9.2%
+$2,018
+3.1%
+9.7%
+$0
+$16,567
+25.6%
+9.0%
+$27,776
+43.0%
+19.5%
+
+$29,654
+12.5%
+7.0%
+$24,381
+10.3%
+7.1%
+$8,037
+3.4%
+7.4%
+$0
+$62,072
+26.2%
+9.3%
+$101,478
+42.8%
+16.9%
+
+$34,360
+12.5%
+15.9%
+$28,236
+10.2%
+15.8%
+$9,309
+3.4%
+15.8%
+$0
+$71,905
+26.1%
+15.8%
+$118,936
+43.2%
+17.2%
+
+$39,545
+12.4%
+15.1%
+$32,460
+10.2%
+15.0%
+$10,712
+3.4%
+15.1%
+$0
+$82,716
+25.9%
+15.0%
+$138,936
+43.5%
+16.8%
+
+$45,802
+12.4%
+15.8%
+$37,576
+10.1%
+15.8%
+$12,438
+3.4%
+16.1%
+$0
+$95,816
+25.8%
+15.8%
+$163,164
+44.0%
+17.4%
+
+Amort of Intang. From LNKD Acquisition (OPEX)
+Adj. Op. Margin ex-LNKD amort of int.
+
+$620
+37.5%
+
+$620
+42.0%
+
+$620
+42.4%
+
+$155
+43.2%
+
+$155
+41.2%
+
+$155
+40.5%
+
+$155
+41.6%
+
+$620
+41.6%
+
+$155
+45.4%
+
+$155
+41.3%
+
+$155
+42.4%
+
+$155
+43.2%
+
+$620
+43.0%
+
+$620
+43.4%
+
+$620
+43.7%
+
+$620
+44.2%
+
+EBITDA
+% YoY Growth
+
+$65,755
+20.3%
+
+$81,602
+24.1%
+
+$97,843
+19.9%
+
+$24,308
+3.7%
+
+$25,218
+-2.0%
+
+$22,681
+-6.0%
+
+$29,241
+19.3%
+
+$101,448
+3.7%
+
+$29,062
+19.6%
+
+$28,212
+11.9%
+
+$29,035
+28.0%
+
+$32,313
+10.5%
+
+$118,622
+16.9%
+
+$138,224
+16.5%
+
+$160,840
+16.4%
+
+$188,087
+16.9%
+
+Net Interest(Income and Other Income)
+
+$77
+
+$1,186
+
+$333
+
+$54
+
+($60)
+
+$196
+
+$267
+
+$457
+
+$249
+
+$262
+
+$277
+
+$352
+
+$1,140
+
+$2,000
+
+$3,076
+
+$4,506
+
+Pre-Tax Profit (incl. Stock Compensation)
+Provision / (Benefit) for Income Taxes
+Tax Rate
+Operating Net Income (incl. Stock Comp)
+% YoY Growth
+Operating EPS
+% YoY Growth
+
+$53,036
+$8,755
+16.5%
+$44,281
+20.2%
+$5.76
+21.3%
+
+$71,102
+$9,831
+13.8%
+$61,271
+38.4%
+$8.05
+39.7%
+
+$83,716
+$14,269
+17.0%
+$69,447
+13.3%
+$9.21
+14.4%
+
+$21,572
+$4,016
+18.6%
+$17,556
+2.0%
+$2.35
+3.1%
+
+$21,510
+$4,139
+19.2%
+$17,371
+-7.4%
+$2.32
+-6.4%
+
+$20,651
+$4,027
+19.5%
+$16,624
+-0.6%
+$2.23
+0.2%
+
+$23,520
+$4,469
+19.0%
+$19,051
+13.8%
+$2.55
+14.4%
+
+$87,253
+$16,651
+19.1%
+$70,602
+1.7%
+$9.45
+2.6%
+
+$25,245
+$4,796
+19.0%
+$20,448
+16.5%
+$2.74
+16.9%
+
+$24,272
+$4,612
+19.0%
+$19,661
+13.2%
+$2.64
+13.5%
+
+$24,973
+$4,745
+19.0%
+$20,228
+21.7%
+$2.72
+22.0%
+
+$28,128
+$5,344
+19.0%
+$22,783
+19.6%
+$3.06
+19.9%
+
+$102,618
+$19,497
+19.0%
+$83,121
+17.7%
+$11.15
+18.1%
+
+$120,935
+$22,978
+19.0%
+$97,958
+17.9%
+$13.17
+18.1%
+
+$142,013
+$26,982
+19.0%
+$115,030
+17.4%
+$15.49
+17.6%
+
+$167,670
+$31,857
+19.0%
+$135,813
+18.1%
+$18.31
+18.2%
+
+Amort. Of Intang. From LNKD, net of tax
+Adjusted Net Income excluding LNKD Deal Amort of Intang.
+Adjusted EPS(excl. LNKD Amort of Int.)
+% YoY Change
+
+$1,252
+$45,533
+$5.93
+20.6%
+
+$1,293
+$62,564
+$8.22
+38.7%
+
+$1,244
+$70,691
+$9.37
+14.0%
+
+$305
+$17,861
+$2.39
+3.0%
+
+$303
+$17,674
+$2.37
+-6.3%
+
+$302
+$16,926
+$2.27
+0.2%
+
+$304
+$19,355
+$2.59
+14.2%
+
+$1,214
+$71,816
+$9.61
+2.5%
+
+$304
+$20,752
+$2.78
+16.6%
+
+$304
+$19,964
+$2.68
+13.2%
+
+$304
+$20,532
+$2.76
+21.6%
+
+$304
+$23,087
+$3.10
+19.6%
+
+$1,215
+$84,336
+$11.32
+17.8%
+
+$1,215
+$99,173
+$13.34
+17.8%
+
+$1,215
+$116,245
+$15.66
+17.4%
+
+$1,215
+$137,028
+$18.47
+18.0%
+
+Stock option expense, net of tax
+Adjusted Net Income excluding Option Expense
+Adjusted EPS (excl. Stock comp)
+% YoY Change
+
+$4,416
+$48,697
+$6.34
+20.6%
+
+$5,272
+$66,543
+$8.75
+38.0%
+
+$6,223
+$75,670
+$10.04
+14.7%
+
+$1,784
+$19,340
+$2.58
+4.9%
+
+$2,050
+$19,421
+$2.60
+-3.5%
+
+$2,053
+$18,677
+$2.50
+2.9%
+
+$2,076
+$21,127
+$2.83
+15.6%
+
+$7,966
+$78,568
+$10.51
+4.8%
+
+$2,087
+$22,535
+$3.02
+16.9%
+
+$2,097
+$21,758
+$2.92
+12.3%
+
+$2,108
+$22,336
+$3.00
+19.9%
+
+$2,118
+$24,902
+$3.34
+18.2%
+
+$8,410
+$91,530
+$12.28
+16.8%
+
+$8,579
+$106,537
+$14.33
+16.6%
+
+$8,752
+$123,783
+$16.67
+16.4%
+
+$8,929
+$144,741
+$19.51
+17.0%
+
+Reported Net Income
+Reported EPS
+
+$44,281
+$5.76
+
+$61,271
+$8.05
+
+$72,738
+$9.65
+
+$17,556
+$2.35
+
+$16,425
+$2.20
+
+$16,624
+$2.23
+
+$19,051
+$2.55
+
+$69,656
+$9.32
+
+$20,448
+$2.74
+
+$19,661
+$2.64
+
+$20,228
+$2.72
+
+$22,783
+$3.06
+
+$83,121
+$11.15
+
+$97,958
+$13.17
+
+$115,030
+$15.49
+
+$135,813
+$18.31
+
+Source: Company data, Morgan Stanley Research estimates
+
+8
+
+Exhibit 4: Revenue Drivers
+Drivers Detail
+Productivity and Business Processes
+Total Office Products and Cloud Services
+YoY
+QoQ
+Office Consumer Total
+YoY
+QoQ
+O365 Consumer
+YoY
+QoQ
+Office Consumer (non-O365)
+YoY
+QoQ
+Office Commercial Products and Cloud Services
+YoY
+QoQ
+Office Business (non-O365)
+YoY
+QoQ
+Office 365
+YoY
+QoQ
+Dynamics Total
+YoY
+QoQ
+Dynamics On-Premise
+YoY
+QoQ
+Dynamics 365
+YoY
+QoQ
+LinkedIn Total
+YoY
+QoQ
+Other
+Productivity and Business Processes
+YoY
+QoQ
+3 Yr Avg. QoQ
+
+$25,573
+7.1%
+
+$28,316
+10.7%
+
+$31,769
+12.2%
+
+$35,316
+11.2%
+
+$39,872
+12.9%
+
+$44,862
+12.5%
+
+$11,548
+6.8%
+-0.8%
+$1,552
+6.8%
+8.4%
+$1,133
+11.8%
+2.4%
+$419
+-4.7%
+28.9%
+$9,996
+6.9%
+-2.1%
+$678
+-28.3%
+-11.3%
+$9,318
+10.8%
+-1.3%
+$1,254
+14.5%
+0.4%
+$231
+-14.4%
+16.4%
+$1,023
+24.0%
+-2.6%
+$3,663
+16.8%
+-1.3%
+$0
+$16,465
+9.5%
+-0.8%
+2.5%
+
+$11,837
+5.2%
+2.5%
+$1,627
+-2.2%
+4.8%
+$1,130
+7.4%
+-0.2%
+$497
+-18.8%
+18.5%
+$10,210
+6.5%
+2.1%
+$755
+-29.9%
+11.3%
+$9,455
+11.1%
+1.5%
+$1,289
+11.7%
+2.8%
+$208
+-20.2%
+-9.9%
+$1,081
+21.0%
+5.7%
+$3,876
+9.8%
+5.8%
+$0
+$17,002
+6.7%
+3.3%
+7.0%
+
+$12,117
+8.5%
+2.4%
+$1,424
+-0.8%
+-12.5%
+$1,112
+2.4%
+-1.6%
+$312
+-10.8%
+-37.2%
+$10,693
+9.9%
+4.7%
+$593
+-25.0%
+-21.5%
+$10,100
+13.0%
+6.8%
+$1,350
+13.6%
+4.7%
+$141
+-27.0%
+-32.5%
+$1,209
+21.5%
+11.9%
+$3,629
+5.6%
+-6.4%
+($29)
+$17,067
+8.1%
+0.4%
+0.0%
+
+$12,896
+10.8%
+6.4%
+$1,441
+0.6%
+1.2%
+$1,142
+3.2%
+2.7%
+$299
+-8.0%
+-4.1%
+$11,455
+12.2%
+7.1%
+$597
+-22.0%
+0.6%
+$10,859
+15.0%
+7.5%
+$1,449
+16.0%
+7.4%
+$147
+-26.0%
+4.5%
+$1,302
+24.0%
+7.7%
+$3,918
+5.6%
+8.0%
+($29)
+$18,235
+9.8%
+6.8%
+4.5%
+
+$18,388
+22.0%
+-2.4%
+$5,509
+0.0%
+-14.0%
+$1,876
+4.7%
+-1.4%
+$12,879
+34.7%
+3.6%
+$61
+-35.8%
+$20,325
+19.9%
+-2.7%
+-3.4%
+
+$19,594
+19.7%
+6.6%
+$5,391
+-2.3%
+-2.1%
+$1,862
+2.1%
+-0.7%
+$14,203
+30.8%
+10.3%
+$52
+-50.2%
+$21,508
+17.5%
+5.8%
+9.9%
+
+$19,970
+17.2%
+1.9%
+$5,513
+-2.5%
+2.3%
+$1,815
+-4.0%
+-2.5%
+$14,458
+27.0%
+1.8%
+$23
+-80.0%
+$21,809
+14.5%
+1.4%
+3.7%
+
+$22,195
+17.8%
+11.1%
+$6,403
+0.0%
+16.2%
+$1,864
+-2.0%
+2.7%
+$15,792
+27.0%
+9.2%
+$31
+-80.0%
+$24,090
+15.3%
+10.5%
+11.2%
+
+$80,148
+19.1%
+
+$5,313
+-6.4%
+-17.1%
+$3,007
+-14.9%
+-2.4%
+$2,146
+8.0%
+-32.5%
+$160
+5.6%
+6.5%
+$1,448
+2.4%
+-6.0%
+$3,610
+0.5%
+4.5%
+$2,928
+10.2%
+0.1%
+$33
+-320.0%
+$13,332
+0.1%
+-7.2%
+-5.0%
+
+$4,808
+-27.2%
+-9.5%
+$2,854
+-38.7%
+-5.1%
+$1,871
+-3.0%
+-12.8%
+$82
+397.9%
+-48.4%
+$1,430
+-33.4%
+-1.2%
+$4,758
+-12.6%
+31.8%
+$3,223
+5.2%
+10.1%
+$18
+-92.4%
+$14,237
+-18.6%
+6.8%
+25.9%
+
+$4,744
+-21.9%
+-1.3%
+$2,185
+-38.2%
+-23.5%
+$2,536
+0.0%
+35.5%
+$24
+318.3%
+-71.5%
+$902
+-45.5%
+-36.9%
+$3,434
+-8.2%
+-27.8%
+$2,974
+1.0%
+-7.7%
+$8
+-92.4%
+$12,063
+-17.0%
+-15.3%
+-15.8%
+
+$6,532
+1.9%
+37.7%
+$2,200
+-28.6%
+0.7%
+$3,243
+2.0%
+27.9%
+$1,088
+624.6%
+4529.9%
+$1,024
+-33.5%
+13.5%
+$3,357
+-2.8%
+-2.2%
+$2,985
+2.0%
+0.3%
+$3
+-91.9%
+$13,901
+-3.3%
+15.2%
+8.1%
+
+$21,397
+-13.6%
+
+$96,571 $110,360 $125,843 $143,015 $168,088 $198,270
+5.9%
+14.3%
+14.0%
+13.6%
+17.5%
+18.0%
+
+$50,122
+10.6%
+-3.4%
+-2.0%
+
+$52,747
+2.0%
+5.2%
+13.9%
+
+$50,938
+3.2%
+-3.4%
+-4.3%
+
+$10,553
+46.2%
+
+$14,850
+40.7%
+
+$19,700
+32.7%
+
+$24,377
+23.7%
+
+$29,877
+22.6%
+
+$35,300
+18.2%
+
+$550
+79.6%
+
+$907
+65.1%
+
+$1,334
+47.1%
+
+$1,894
+41.9%
+
+$2,712
+43.2%
+
+$3,764
+38.8%
+
+$3,969
+98.6%
+
+$7,629
+92.2%
+
+$13,064
+71.2%
+
+$20,364
+55.9%
+
+$30,468
+49.6%
+
+$44,238
+45.2%
+
+$3,374
+0.0%
+
+$4,115
+22.0%
+
+$5,020
+22.0%
+
+$6,000
+19.5%
+
+$7,998
+33.3%
+
+$26,760
+$26.6
+
+$38,213
+
+$51,655
+
+$69,057
+
+$91,300
+
+42.8%
+
+35.2%
+
+33.7%
+
+32.2%
+
+$9,455
+11.1%
+1.5%
+$1,081
+21.0%
+5.7%
+$14,203
+30.8%
+10.3%
+$2,361
+25.1%
+-4.8%
+$27,100
+$27.1
+22.0%
+29.0%
+22.3%
+5.4%
+
+$10,100
+13.0%
+6.8%
+$1,209
+21.5%
+11.9%
+$14,458
+27.0%
+1.8%
+$2,428
+16.6%
+2.8%
+$28,195
+
+77.5%
+
+$9,318
+10.8%
+-1.3%
+$1,023
+24.0%
+-2.6%
+$12,879
+34.7%
+3.6%
+$2,481
+33.7%
+14.2%
+$25,700
+$25.7
+24.0%
+31.0%
+24.5%
+2.4%
+
+20.5%
+4.0%
+
+21.5%
+8.1%
+
+$3,773
+11.0%
+
+$4,160
+10.2%
+
+$4,422
+6.3%
+
+$4,890
+10.6%
+
+$5,385
+10.1%
+
+$5,984
+11.1%
+
+$1,847
+14.8%
+
+$2,157
+16.8%
+
+$2,440
+13.1%
+
+$2,857
+17.1%
+
+$3,653
+27.8%
+
+$4,259
+16.6%
+
+$1,926
+
+$2,003
+4.0%
+
+$1,982
+-1.0%
+
+$2,032
+2.5%
+
+$1,732
+-14.8%
+
+$1,725
+-0.4%
+
+$21,800
+7.0%
+
+$24,156
+10.8%
+
+$27,347
+13.2%
+
+$30,426
+11.3%
+
+$34,487
+13.3%
+
+$38,878
+12.7%
+
+$11,247
+
+$9,306
+-17.3%
+
+$7,647
+-17.8%
+
+$6,050
+-20.9%
+
+$4,610
+-23.8%
+
+$3,578
+-22.4%
+
+$10,553
+46.2%
+
+$14,850
+40.7%
+
+$19,700
+32.7%
+
+$24,377
+23.7%
+
+$29,877
+22.6%
+
+$35,300
+18.2%
+
+$2,026
+5.3%
+
+$2,290
+13.0%
+
+$2,637
+15.2%
+
+$3,005
+14.0%
+
+$3,754
+24.9%
+
+$4,686
+24.8%
+
+$1,476
+-8.8%
+
+$1,383
+-6.3%
+
+$1,303
+-5.8%
+
+$1,111
+-14.7%
+
+$1,042
+-6.3%
+
+$922
+-11.5%
+
+$550
+79.6%
+
+$907
+65.1%
+
+$1,334
+47.1%
+
+$1,894
+41.9%
+
+$2,712
+43.2%
+
+$3,764
+38.8%
+
+$2,271
+
+$5,259
+
+$6,754
+28.4%
+
+$8,077
+19.6%
+
+$10,289
+27.4%
+
+$13,816
+34.3%
+
+$0
+$29,870
+15.8%
+
+$0
+$35,865
+20.1%
+
+$0
+$41,160
+14.8%
+
+($0)
+$46,398
+12.7%
+
+$0
+$53,915
+16.2%
+
+$0
+$63,364
+17.5%
+
+$21,649
+13.6%
+
+$26,129
+20.7%
+
+$32,622
+24.8%
+
+$41,379
+26.8%
+
+$52,589
+27.1%
+
+$67,321
+28.0%
+
+$17,680
+3.6%
+
+$18,500
+4.6%
+
+$19,558
+5.7%
+
+$21,015
+7.4%
+
+$22,121
+5.3%
+
+$23,083
+4.3%
+
+$5,542
+-2.1%
+
+$5,846
+5.5%
+
+$6,124
+4.8%
+
+$6,409
+4.7%
+
+$6,943
+8.3%
+
+$7,407
+6.7%
+
+$3,969
+98.6%
+
+$7,629
+92.2%
+
+$13,064
+71.2%
+
+$20,364
+55.9%
+
+$30,468
+49.6%
+
+$44,238
+45.2%
+
+$216
+-6.5%
+$27,407
+9.8%
+
+$244
+13.0%
+$32,219
+17.6%
+
+$239
+-2.0%
+$38,985
+21.0%
+
+$578
+141.8%
+$48,366
+24.1%
+
+$548
+-5.2%
+$60,080
+24.2%
+
+$470
+-14.3%
+$75,198
+25.2%
+
+$18,593
+6.0%
+
+$19,518
+5.0%
+
+$20,395
+4.5%
+
+$22,294
+9.3%
+
+$22,488
+0.9%
+
+$24,761
+10.1%
+
+$11,343
+
+$11,829
+4.3%
+
+$12,282
+3.8%
+
+$13,357
+8.8%
+
+$13,355
+0.0%
+
+$14,805
+10.9%
+
+$5,100
+14.0%
+
+$5,768
+13.1%
+
+$6,583
+14.1%
+
+$7,731
+17.4%
+
+$8,739
+13.0%
+
+$9,632
+10.2%
+
+$2,150
+14.9%
+
+$1,920
+-10.7%
+
+$1,531
+-20.3%
+
+$1,206
+-21.2%
+
+$394
+-67.3%
+
+$324
+-17.9%
+
+$4,026
+-1.8%
+
+$4,651
+15.5%
+
+$5,719
+23.0%
+
+$6,176
+8.0%
+
+$6,478
+4.9%
+
+$6,757
+4.3%
+
+$9,051
+
+$10,353
+14.4%
+
+$11,386
+10.0%
+
+$11,575
+1.7%
+
+$15,370
+32.8%
+
+$16,230
+5.6%
+
+$48,398
+7.9%
+
+$12,922
+11.9%
+0.2%
+$1,571
+1.2%
+9.0%
+$1,164
+2.7%
+1.9%
+$407
+-2.8%
+36.3%
+$11,351
+13.6%
+-0.9%
+$543
+-20.0%
+-9.0%
+$10,808
+16.0%
+-0.5%
+$1,497
+19.4%
+3.3%
+$208
+-10.0%
+41.6%
+$1,289
+26.0%
+-1.1%
+$4,144
+13.1%
+5.8%
+($29)
+$18,534
+12.6%
+1.6%
+2.1%
+
+$13,167
+11.2%
+1.9%
+$1,682
+3.4%
+7.0%
+$1,188
+5.1%
+2.1%
+$493
+-0.7%
+21.1%
+$11,485
+12.5%
+1.2%
+$612
+-19.0%
+12.7%
+$10,873
+15.0%
+0.6%
+$1,549
+20.2%
+3.5%
+$187
+-10.0%
+-9.9%
+$1,362
+26.0%
+5.7%
+$4,377
+12.9%
+5.6%
+($29)
+$19,063
+12.1%
+2.9%
+5.9%
+
+$13,394
+10.5%
+1.7%
+$1,495
+5.0%
+-11.1%
+$1,201
+7.9%
+1.0%
+$295
+-5.5%
+-40.3%
+$11,899
+11.3%
+3.6%
+$486
+-18.0%
+-20.5%
+$11,413
+13.0%
+5.0%
+$1,656
+22.7%
+6.9%
+$127
+-10.0%
+-32.5%
+$1,530
+26.5%
+12.3%
+$4,296
+18.4%
+-1.8%
+($29)
+$19,318
+13.2%
+1.3%
+0.3%
+
+$14,160
+9.8%
+5.7%
+$1,509
+4.7%
+0.9%
+$1,218
+6.7%
+1.5%
+$291
+-2.7%
+-1.3%
+$12,651
+10.4%
+6.3%
+$489
+-18.0%
+0.6%
+$12,162
+12.0%
+6.6%
+$1,786
+23.2%
+7.8%
+$132
+-10.0%
+4.5%
+$1,654
+27.0%
+8.1%
+$4,620
+17.9%
+7.5%
+($29)
+$20,538
+12.6%
+6.3%
+6.8%
+
+$22,233
+20.9%
+0.2%
+$5,620
+2.0%
+-12.2%
+$1,951
+4.0%
+4.7%
+$16,613
+29.0%
+5.2%
+$60
+-2.0%
+$24,244
+19.3%
+0.6%
+-2.7%
+
+$23,821
+21.6%
+7.1%
+$5,499
+2.0%
+-2.1%
+$1,936
+4.0%
+-0.7%
+$18,322
+29.0%
+10.3%
+$51
+-2.0%
+$25,808
+20.0%
+6.5%
+8.7%
+
+$24,273
+21.5%
+1.9%
+$5,623
+2.0%
+2.3%
+$1,888
+4.0%
+-2.5%
+$18,650
+29.0%
+1.8%
+$23
+-2.0%
+$26,184
+20.1%
+1.5%
+3.0%
+
+$27,219 $97,546 $121,443 $150,599 $185,852
+22.6%
+21.7%
+24.5%
+24.0%
+23.4%
+12.1%
+$6,531 $23,272 $23,702 $23,820 $23,939
+2.0%
+2.0%
+1.8%
+0.5%
+0.5%
+16.2%
+$1,939
+$7,714
+$8,023
+$8,303
+$8,552
+4.0%
+4.0%
+4.0%
+3.5%
+3.0%
+2.7%
+$20,688 $74,274 $97,741 $126,779 $161,912
+31.0%
+29.6%
+31.6%
+29.7%
+27.7%
+10.9%
+$30
+$164
+$164
+$164
+$164
+-2.0%
+-2.0%
+0.0%
+0.0%
+0.0%
+$29,188 $105,424 $129,629 $159,067 $194,568
+21.2%
+20.2%
+23.0%
+22.7%
+22.3%
+11.5%
+11.7%
+
+$5,183
+-2.5%
+-20.7%
+$2,769
+-7.9%
+25.8%
+$2,254
+5.0%
+-30.5%
+$160
+0.1%
+-85.3%
+$1,085
+-25.1%
+5.9%
+$3,246
+-10.1%
+-3.3%
+$3,133
+7.0%
+5.0%
+$34
+3.0%
+$12,681
+-4.9%
+-8.8%
+-7.0%
+
+$4,894
+1.8%
+-5.6%
+$2,789
+-2.3%
+0.7%
+$2,021
+8.0%
+-10.3%
+$84
+1.4%
+-47.8%
+$1,302
+-8.9%
+20.1%
+$3,954
+-16.9%
+21.8%
+$3,513
+9.0%
+12.1%
+$19
+3.0%
+$13,682
+-3.9%
+7.9%
+21.9%
+
+$5,007
+5.5%
+2.3%
+$2,245
+2.7%
+-19.5%
+$2,739
+8.0%
+35.5%
+$24
+1.1%
+-71.6%
+$1,134
+25.8%
+-12.9%
+$3,651
+6.3%
+-7.7%
+$3,272
+10.0%
+-6.9%
+$9
+3.0%
+$13,073
+8.4%
+-4.5%
+-15.3%
+
+$6,891
+5.5%
+37.6%
+$2,280
+3.6%
+1.6%
+$3,503
+8.0%
+27.9%
+$1,108
+1.9%
+4563.0%
+$1,226
+19.7%
+8.1%
+$3,475
+3.5%
+-4.8%
+$3,313
+11.0%
+1.3%
+$3
+3.0%
+$14,909
+7.3%
+14.0%
+7.4%
+
+$56,226 $210,033
+8.4%
+5.9%
+10.4%
+8.1%
+
+$55,459
+10.6%
+-1.4%
+-2.5%
+
+$58,554
+11.0%
+5.6%
+11.8%
+
+$58,575
+15.0%
+0.0%
+-3.7%
+
+$64,635 $237,223 $275,528 $319,399 $370,834
+15.0%
+12.9%
+16.1%
+15.9%
+16.1%
+10.3%
+8.7%
+
+$10,859 $39,731
+15.0%
+12.6%
+7.5%
+$1,302
+$4,615
+24.0%
+22.6%
+7.7%
+$15,792 $57,332
+27.0%
+29.6%
+9.2%
+$2,532
+$9,803
+16.6%
+22.6%
+4.3%
+$30,486 $111,481
+
+$10,808
+16.0%
+-0.5%
+$1,289
+26.0%
+-1.1%
+$16,613
+29.0%
+5.2%
+$2,903
+17.0%
+14.6%
+$31,613
+
+$10,873
+15.0%
+0.6%
+$1,362
+26.0%
+5.7%
+$18,322
+29.0%
+10.3%
+$2,786
+18.0%
+-4.0%
+$33,343
+
+$11,413
+13.0%
+5.0%
+$1,530
+26.5%
+12.3%
+$18,650
+29.0%
+1.8%
+$3,035
+25.0%
+8.9%
+$34,628
+
+$12,162 $45,256 $50,687 $56,516 $62,732
+12.0%
+13.9%
+12.0%
+11.5%
+11.0%
+6.6%
+$1,654
+$5,835
+$7,334
+$9,072 $11,040
+27.0%
+26.4%
+25.7%
+23.7%
+21.7%
+8.1%
+$20,688 $74,274 $97,741 $126,779 $161,912
+31.0%
+29.6%
+31.6%
+29.7%
+27.7%
+10.9%
+$3,165 $11,890 $14,594 $17,620 $20,922
+25.0%
+21.3%
+22.7%
+20.7%
+18.7%
+4.3%
+$37,669 $137,254 $170,355 $209,987 $256,607
+
+22.1%
+
+23.0%
+3.7%
+
+23.0%
+5.5%
+
+22.8%
+3.9%
+
+23.6%
+8.8%
+
+23.1%
+
+24.1%
+
+23.3%
+
+22.2%
+
+$6,044
+1.0%
+$4,518
+6.1%
+$1,526
+-11.5%
+$42,354
+8.9%
+$2,623
+-26.7%
+$39,731
+12.6%
+$5,342
+14.0%
+$727
+-21.2%
+$4,615
+22.6%
+$15,086
+9.2%
+($58)
+$68,769
+8.5%
+
+$53,643
+10.8%
+
+$58,775
+9.6%
+
+$64,262
+9.3%
+
+$70,422
+9.6%
+
+$6,257
+3.5%
+
+$6,342
+1.4%
+
+$6,297
+-0.7%
+
+$6,472
+2.8%
+
+$4,771
+5.6%
+
+$4,836
+1.3%
+
+$4,745
+-1.9%
+
+$4,873
+2.7%
+
+$1,486
+-2.6%
+
+$1,506
+1.4%
+
+$1,552
+3.0%
+
+$1,599
+3.0%
+
+$47,386
+11.9%
+
+$52,433
+10.7%
+
+$57,965
+10.6%
+
+$63,950
+10.3%
+
+$2,130
+-18.8%
+
+$1,746
+-18.0%
+
+$1,450
+-17.0%
+
+$1,218
+-16.0%
+
+$45,256
+13.9%
+
+$50,687
+12.0%
+
+$56,516
+11.5%
+
+$62,732
+11.0%
+
+$6,489
+21.5%
+
+$7,923
+22.1%
+
+$9,617
+21.4%
+
+$11,558
+20.2%
+
+$654
+-10.0%
+
+$589
+-10.0%
+
+$545
+-7.5%
+
+$517
+-5.0%
+
+$5,835
+26.4%
+
+$7,334
+25.7%
+
+$9,072
+23.7%
+
+$11,040
+21.7%
+
+$17,437
+15.6%
+
+$21,583
+23.8%
+
+$26,008
+20.5%
+
+$30,987
+19.1%
+
+($116)
+$77,453
+12.6%
+
+($116)
+$88,165
+13.8%
+
+($116)
+($116)
+$99,770 $112,851
+13.2%
+13.1%
+
+78.9%
+Intelligent Cloud
+Server Products and Cloud Services
+YoY
+QoQ
+Server Products
+YoY
+QoQ
+Enterprise Services
+YoY
+QoQ
+Azure
+YoY
+QoQ
+Other (MSFT Partners Network, etc)
+YoY
+Intelligent Cloud
+YoY
+QoQ
+3 Yr Avg. QoQ
+
+$22,816
+-1.2%
+$7,417
+0.1%
+$57,332
+29.6%
+$167
+-64.4%
+$87,732
+16.7%
+
+0
+More Personal Computing
+Total Windows
+YoY
+QoQ
+Windows OEM
+YoY
+QoQ
+Windows Commercial Products and Cloud Services
+YoY
+QoQ
+Windows Patent Licensing, IP, IoT, Embedded & Other
+YoY
+QoQ
+Devices
+YoY
+QoQ
+Gaming (Hardware, Xbox Live, Video Games, 3rd Party Royalties)
+YoY
+QoQ
+Search Advertising & Online Services
+YoY
+QoQ
+Other (Mostly Retail Stores ex-Surface, ex-Xbox)
+YoY
+More Personal Computing
+YoY
+QoQ
+3 Yr Avg. QoQ
+Total Revenue
+YoY
+QoQ
+3 Yr Avg. QoQ
+Additional Detail
+Microsoft Cloud
+O365 Commercial
+YoY
+QoQ
+Dynamics 365
+YoY
+QoQ
+Azure
+YoY
+QoQ
+LinkedIn Commercial
+YoY
+QoQ
+Microsoft Cloud
+Reported (Billions)
+KPI YoY Growth Reported
+KPI YoY Growthin Constant Currency
+YoY
+QoQ
+Microsoft Cloud Organic, Ex-LinkedIn
+YoY Organic, ex-LinkedIn
+QoQ Organic, ex-LinkedIn
+Devices
+Surface Units Shipped
+YoY
+Avg. ASP
+PC Accessories and Others
+YoY
+Total Devices Revenue
+YoY
+Gaming (Hardware, Xbox Live, Video Games, 3rd Party Royalties)
+Total Gaming Revenue
+Gaming RevenueYoY Growth
+Gaming Revenue (cc)YoY Growth
+QoQ Growth
+Xbox Content and Services Gaming Revenue
+Software and Services YoY Growth (implied)
+Software and Services YoY Growth
+Software and Services (cc)YoY Growth
+QoQ Growth
+Software and Services as % of Total
+YoY Growth
+Hardware Gaming Revenue
+Hardware Revenue YoY Growth
+Hardware Revenue (cc)YoY Growth
+QoQ Growth
+Hardware as % of Total
+
+$6,219
+14.7%
+
+$7,012
+12.8%
+
+$7,628
+8.8%
+
+$7,740
+1.5%
+
+$9,267
+19.7%
+
+$11,591
+25.1%
+
+$916
+
+$742
+-19.0%
+$42,276
+7.6%
+
+$570
+-23.2%
+$45,698
+8.1%
+
+$466
+-18.2%
+$48,251
+5.6%
+
+$490
+5.2%
+$54,093
+12.1%
+
+$370
+-24.5%
+$59,709
+10.4%
+
+$39,294
+-2.8%
+
+$15,072
+$14.9
+58.2%
+
+$10,246
+-30.8%
+$9,797
+1.7%
+$1,354
+318.1%
+$4,804
+-28.9%
+$15,159
+-6.6%
+$12,110
+4.5%
+$63
+-83.1%
+$53,532
+-10.3%
+
+$21,976
+2.7%
+
+$22,789
+3.7%
+
+$23,618
+3.6%
+
+$24,440
+3.5%
+
+$10,083
+-1.6%
+
+$10,150
+0.7%
+
+$10,294
+1.4%
+
+$10,508
+2.1%
+
+$10,516
+7.3%
+
+$11,253
+7.0%
+
+$11,928
+6.0%
+
+$12,524
+5.0%
+
+$1,376
+1.6%
+
+$1,387
+0.8%
+
+$1,397
+0.8%
+
+$1,408
+0.8%
+
+$4,748
+-1.2%
+
+$5,422
+14.2%
+
+$5,633
+3.9%
+
+$5,905
+4.8%
+
+$14,327
+-5.5%
+
+$15,036
+4.9%
+
+$15,668
+4.2%
+
+$16,335
+4.3%
+
+$13,231
+9.3%
+
+$14,422
+9.0%
+
+$15,575
+8.0%
+
+$16,665
+7.0%
+
+$64
+3.0%
+$54,346
+1.5%
+
+$66
+3.0%
+$57,734
+6.2%
+
+$68
+3.0%
+$60,563
+4.9%
+
+$70
+3.0%
+$63,415
+4.7%
+
+$23,386
+55.2%
+
+4.9
+-7.0%
+$816
+
+5.8
+17.5%
+$803
+
+6.8
+17.7%
+$839
+
+6.7
+-1.5%
+$919
+
+6.7
+0.3%
+$962
+
+0.0%
+$4,026
+-1.8%
+
+0.0%
+$4,651
+15.5%
+
+0.0%
+$5,719
+23.0%
+
+0.0%
+$6,176
+8.0%
+
+0.0%
+$6,478
+4.9%
+
+7.7
+14.1%
+$879
+$247
+0.0%
+$6,757
+4.3%
+
+1.8
+23.3%
+$780
+$24
+-84.8%
+$1,448
+2.4%
+
+1.9
+-21.1%
+$720
+$28
+-43.1%
+$1,430
+-33.4%
+
+1.5
+-23.8%
+$605
+$12
+-5.0%
+$902
+-45.5%
+
+1.4
+-20.8%
+$696
+$31
+7.0%
+$1,024
+-33.5%
+
+6.7
+-13.2%
+$720
+$95
+-61.5%
+$4,804
+-28.9%
+
+1.5
+-16.5%
+$696
+$24
+1.0%
+$1,085
+-25.1%
+
+1.7
+-12.5%
+$748
+$28
+1.0%
+$1,302
+-8.9%
+
+1.5
+-0.5%
+$766
+$13
+5.0%
+$1,134
+25.8%
+
+1.5
+1.6%
+$824
+$31
+1.0%
+$1,226
+19.7%
+
+6.1
+-7.9%
+$773
+$97
+1.5%
+$4,748
+-1.2%
+
+6.4
+4.0%
+$849
+$98
+1.0%
+$5,422
+14.2%
+
+6.5
+1.1%
+$872
+$99
+1.0%
+$5,633
+3.9%
+
+6.7
+3.9%
+$881
+$100
+1.0%
+$5,905
+4.8%
+
+$9,051
+-1.0%
+
+$10,353
+14.4%
+
+$11,386
+10.0%
+
+$11,575
+1.7%
+
+$15,370
+32.8%
+
+$16,229
+5.6%
+
+$3,610
+0.5%
+4.0%
+4.5%
+
+$4,758
+-12.6%
+-9.0%
+31.8%
+
+$3,434
+-8.2%
+
+$3,357
+-2.8%
+
+$15,159
+-6.6%
+
+$3,246
+-10.1%
+
+$3,954
+-16.9%
+
+$3,651
+6.3%
+
+$3,475
+3.5%
+
+$14,327
+-5.5%
+
+$15,036
+4.9%
+
+$15,668
+4.2%
+
+$16,335
+4.3%
+
+-27.8%
+
+-2.2%
+
+-3.3%
+
+21.8%
+
+-7.7%
+
+-4.8%
+
+$6,358
+11.0%
+11.0%
+
+$7,591
+19.4%
+19.4%
+
+$9,018
+18.8%
+18.8%
+
+$9,958
+10.4%
+10.4%
+
+$12,240
+22.9%
+22.9%
+
+$12,568
+2.7%
+2.7%
+
+$2,849
+-2.5%
+-2.5%
+1.0%
+2.9%
+79%
+
+$3,394
+-12.4%
+-12.4%
+-8.0%
+19.1%
+71%
+
+$2,897
+-3.5%
+-3.5%
+
+$2,880
+4.0%
+4.0%
+
+$12,020
+-4.4%
+-4.4%
+
+$2,991
+5.0%
+5.0%
+
+$3,631
+7.0%
+7.0%
+
+$3,129
+8.0%
+8.0%
+
+$3,111
+8.0%
+8.0%
+
+$12,862
+7.0%
+7.0%
+
+$13,634
+6.0%
+6.0%
+
+$14,316
+5.0%
+5.0%
+
+$15,032
+5.0%
+5.0%
+
+-14.6%
+84%
+
+-0.6%
+86%
+
+21.4%
+92%
+
+-13.8%
+86%
+
+-0.6%
+90%
+
+70%
+
+73%
+
+79%
+
+86%
+
+80%
+
+77%
+
+79%
+
+3.8%
+92%
+
+90%
+
+91%
+
+91%
+
+92%
+
+$2,693
+-23.4%
+
+$2,762
+2.6%
+
+$2,368
+-14.3%
+
+$1,617
+-31.7%
+
+$3,130
+93.6%
+
+$3,661
+17.0%
+
+$3,138
+-14.3%
+
+$255
+-66.5%
+
+$323
+-76.3%
+
+$522
+-2.7%
+
+$364
+-23.5%
+
+$1,465
+-53.3%
+
+$1,402
+-4.3%
+
+$1,352
+-3.6%
+
+$1,303
+-3.6%
+
+21%
+
+14%
+
+20%
+
+23%
+
+$1,364
+-13.0%
+-9.0%
+79.2%
+29%
+
+$477
+-30.4%
+
+27%
+
+$761
+13.4%
+19.0%
+11.2%
+21%
+
+$536
+-27.3%
+
+30%
+
+-60.7%
+16%
+
+-11.1%
+14%
+
+21%
+
+-91.9%
+8%
+
+26.7%
+8%
+
+61.6%
+14%
+
+-30.2%
+10%
+
+10%
+
+9%
+
+9%
+
+8%
+
+Windows Patent Licensing, IP, IoT, Embedded & Other
+Avg. ASP
+# of Devices
+YoY
+Windows Phone Licensing and IP
+YoY
+
+$2
+234.3
+-7.5%
+$618
+-13.4%
+
+$3
+210.9
+-10.0%
+$550
+-11.1%
+
+$3
+154.6
+-26.7%
+$422
+-23.3%
+
+$3
+121.7
+-21.3%
+$360
+-14.7%
+
+$2
+81.9
+-32.7%
+$219
+-39.0%
+
+$2
+42.9
+-47.6%
+$83
+-62.3%
+
+$2
+23.7
+-5.0%
+$50
+4.5%
+
+$2
+3.8
+-5.0%
+$8
+4.5%
+
+$2
+1.6
+-5.0%
+$3
+4.5%
+
+$2
+11.7
+-5.0%
+$25
+4.5%
+
+$2
+40.7
+-5.0%
+$86
+4.5%
+
+$2
+22.8
+-4.0%
+$48
+-4.0%
+
+$2
+3.6
+-4.0%
+$8
+-4.0%
+
+$2
+1.5
+-4.0%
+$3
+-4.0%
+
+$2
+11.2
+-4.0%
+$24
+-4.0%
+
+$2
+39.1
+-4.0%
+$83
+-4.0%
+
+$2
+37.9
+-3.0%
+$80
+-3.0%
+
+$2
+36.8
+-3.0%
+$78
+-3.0%
+
+$2
+35.7
+-3.0%
+$76
+-3.0%
+
+Windows Embedded & Other
+YoY
+Windows Patent Licensing, IP, IoT, Embedded & Other
+
+$1,532
+32.4%
+$2,150
+14.9%
+
+$1,370
+-10.6%
+$1,920
+-10.7%
+
+$1,109
+-19.1%
+$1,531
+-20.3%
+
+$846
+-23.7%
+$1,206
+-21.2%
+
+$175
+-79.3%
+$394
+-67.3%
+
+$241
+37.9%
+$324
+-17.9%
+
+$110
+6.1%
+$160
+5.6%
+
+$74
+740.4%
+$82
+397.9%
+
+$20
+740.4%
+$24
+318.3%
+
+$1,064
+740.4%
+$1,088
+624.6%
+
+$1,268
+425.6%
+$1,354
+318.1%
+
+$112
+2.0%
+$160
+0.1%
+
+$76
+2.0%
+$84
+1.4%
+
+$21
+2.0%
+$24
+1.1%
+
+$1,085
+2.0%
+$1,108
+1.9%
+
+$1,293
+2.0%
+$1,376
+1.6%
+
+$1,306
+1.0%
+$1,387
+0.8%
+
+$1,319
+1.0%
+$1,397
+0.8%
+
+$1,332
+1.0%
+$1,408
+0.8%
+
+$380
+$235
+$111
+$34
+
+$414
+$225
+$163
+$26
+
+$299
+$166
+$116
+$16
+
+$13,978
+28.7%
+30.8%
+
+$14,292
+25.5%
+27.0%
+
+2024E
+66.9
+49%
+69.5
+3.4
+51%
+136.4
+6.4%
+
+2025E
+71.8
+50%
+72.9
+3.4
+50%
+144.7
+6.1%
+
+2026E
+76.8
+51%
+74.9
+2.0
+49%
+151.7
+4.8%
+
+2027E
+81.9
+52%
+76.9
+2.0
+48%
+158.8
+4.7%
+
+Nuance Analysis
+Nuance In-Organic Revenue Contribution
+Nuance Azure
+Nuance Server Products
+Nuance Enterprise Services
+Organic Azure
+Organic Azure YoY Growth
+vs. Reported/Estimated Azure YoY
+
+49.6%
+
+45.2%
+
+$12,644
+32.2%
+34.7%
+
+27.0%
+
+29.6%
+
+29.0%
+
+29.0%
+
+29.0%
+
+31.0%
+
+29.6%
+
+Organic Server Products
+Organic Server Products YoY Growth
+vs. Reported/Estimated Server YoY
+
+5.3%
+
+4.3%
+
+$5,398
+-2.0%
+0.0%
+
+$5,228
+-5.2%
+-2.3%
+
+$5,396
+-4.6%
+-2.5%
+
+0.0%
+
+-1.2%
+
+2.0%
+
+2.0%
+
+2.0%
+
+2.0%
+
+2.0%
+
+Organic Enterprise Services
+Organic Enterprise Services YoY Growth
+vs. Reported/Estimated Services YoY
+
+8.3%
+
+6.7%
+
+$1,842
+2.8%
+4.7%
+
+$1,836
+0.7%
+2.1%
+
+$1,799
+-4.9%
+-4.0%
+
+-2.0%
+
+0.1%
+
+4.0%
+
+4.0%
+
+4.0%
+
+4.0%
+
+4.0%
+
+24.2%
+
+25.2%
+
+$19,945
+17.6%
+19.9%
+
+$21,094
+15.3%
+17.5%
+
+$21,510
+12.9%
+14.5%
+
+15.3%
+
+16.7%
+
+20.2%
+
+Total Intelligent Cloud Organic
+Organic Intelligent Cloud YoY Growth
+vs. Reported/Estimated IC YoY
+Phone Hardware
+
+19.3%
+
+20.0%
+
+20.1%
+
+21.2%
+
+1.2%
+
+3.4%
+
+5.0%
+
+4.7%
+
+Consumer Office Analysis
+Perpetual Office Est. Installed Base-- Consumer
+% of Base
+Microsoft 365 Home Users
+Net NewO365 Users
+% of Base
+Consumer Office Installed Base
+YoY
+
+2017
+89.1
+77%
+27.0
+3.9
+23%
+116.1
+-7.8%
+
+2018E
+77.7
+71%
+31.4
+4.4
+29%
+109.1
+-6.0%
+
+2019
+67.8
+66%
+34.8
+3.4
+34%
+102.6
+-6.0%
+
+2020
+59.5
+58%
+42.7
+7.9
+42%
+102.2
+-0.4%
+
+2021
+55.1
+52%
+51.9
+9.2
+48%
+107.0
+4.8%
+
+2022
+57.3
+49%
+59.7
+7.8
+51%
+117.0
+9.3%
+
+Sep-22
+59.7
+49%
+61.3
+1.6
+51%
+121.0
+8.3%
+
+O365 Units Up for Renewal
+Renewal Rate
+Renewal O365 Units
+YoY
+New O365 Units
+YoY
+Total O365 Units Billed
+YoY
+
+23.0
+75%
+17.3
+52.2%
+9.7
+-17.3%
+26.9
+16.9%
+
+26.9
+75%
+20.2
+16.9%
+11.1
+15.3%
+31.3
+16.3%
+
+31.3
+75%
+23.5
+16.3%
+11.2
+0.9%
+34.7
+10.8%
+
+34.7
+73%
+25.3
+7.6%
+17.36
+54.5%
+42.6
+22.7%
+
+42.6
+75%
+32.0
+26.5%
+19.86
+14.4%
+51.8
+21.6%
+
+51.8
+75%
+38.9
+21.6%
+20.76
+4.5%
+59.6
+15.0%
+
+13.7
+75%
+10.3
+19.1%
+5.03
+-1.0%
+15.3
+11.7%
+
+15.1
+75%
+11.4
+17.9%
+5.68
+3.2%
+17.0
+12.6%
+
+17.0
+75%
+12.7
+13.4%
+5.44
+-5.2%
+18.2
+7.1%
+
+13.8
+75%
+10.4
+10.4%
+5.16
+16.4%
+15.5
+12.3%
+
+59.6
+75%
+44.7
+15.0%
+21.31
+2.6%
+66.0
+10.7%
+
+15.3
+74%
+11.3
+10.2%
+5.49
+9.0%
+16.8
+9.8%
+
+17.0
+74%
+12.6
+11.1%
+5.53
+-2.7%
+18.1
+6.5%
+
+18.2
+74%
+13.4
+5.6%
+5.02
+-7.7%
+18.5
+1.7%
+
+15.5
+74%
+11.5
+10.8%
+4.54
+-12.0%
+16.0
+3.2%
+
+66.0
+74%
+48.9
+9.3%
+20.57
+-3.5%
+69.4
+5.1%
+
+69.4
+72%
+50.0
+2.3%
+22.89
+11.2%
+72.9
+5.0%
+
+72.9
+72%
+52.5
+5.0%
+22.41
+-2.1%
+74.9
+2.7%
+
+74.9
+72%
+53.9
+2.7%
+22.97
+2.5%
+76.9
+2.7%
+
+O365 Avg. ASP
+O365 Billings
+YoY
+O365 Home Premium Revenue
+YoY
+% of Billings
+
+$73
+$1,954
+16.9%
+$1,847
+14.8%
+
+$73
+$2,273
+16.3%
+$2,157
+16.8%
+
+$73
+$2,519
+10.8%
+$2,440
+13.1%
+
+$75
+$3,187
+26.5%
+$2,857
+17.1%
+
+$75
+$3,889
+22.0%
+$3,653
+27.8%
+
+$74
+$4,428
+13.9%
+$4,259
+16.6%
+
+$74
+$1,134
+10.2%
+$1,133
+11.8%
+100%
+
+$65
+$1,109
+-1.0%
+$1,130
+7.4%
+102%
+
+$65
+$1,183
+-5.8%
+$1,112
+2.4%
+94%
+
+$74
+$1,142
+11.7%
+$1,142
+3.2%
+100%
+
+$69
+$4,569
+3.2%
+$4,518
+6.1%
+
+$73
+$1,221
+7.7%
+$1,164
+2.7%
+95%
+
+$67
+$1,208
+8.9%
+$1,188
+5.1%
+98%
+
+$67
+$1,231
+4.1%
+$1,201
+7.9%
+98%
+
+$76
+$1,212
+6.2%
+$1,218
+6.7%
+100%
+
+$70
+$4,873
+6.7%
+$4,771
+5.6%
+
+$65
+$4,753
+-2.5%
+$4,836
+1.3%
+
+$64
+$4,793
+0.8%
+$4,745
+-1.9%
+
+$64
+$4,921
+2.7%
+$4,873
+2.7%
+
+10.7
+
+11.1
+4.0%
+50.0%
+$180
+0.0%
+$2,003
+4.0%
+
+11.0
+-1.0%
+49.5%
+$180
+0.0%
+$1,982
+-1.0%
+
+11.3
+2.5%
+39.4%
+$180
+0.0%
+$2,032
+2.5%
+
+9.6
+-14.8%
+32.6%
+$180
+0.0%
+$1,732
+-14.8%
+
+9.6
+-0.4%
+31.6%
+$180
+0.0%
+$1,725
+-0.4%
+
+2.3
+-4.7%
+
+3.0
+-12.7%
+
+1.8
+-6.0%
+
+1.8
+-3.0%
+
+$180
+0.0%
+$419
+-4.7%
+
+$167
+-7.0%
+$497
+-18.8%
+
+$171
+-5.1%
+$312
+-10.8%
+
+$171
+-5.1%
+$299
+-8.0%
+
+8.9
+-7.5%
+29.4%
+$172
+-4.4%
+$1,526
+-11.5%
+
+9.0
+1.7%
+30.5%
+$165
+-4.3%
+$1,486
+-2.6%
+
+9.2
+2.0%
+28.7%
+$164
+-0.6%
+$1,506
+1.4%
+
+9.4
+2.0%
+29.5%
+$165
+1.0%
+$1,552
+3.0%
+
+9.6
+2.0%
+29.4%
+$167
+1.0%
+$1,599
+3.0%
+
+Office Units Shipped (M)
+YoY
+% Total Office Units Shipped
+ASP
+YoY
+Consumer Office (non-O365)
+YoY
+Total Office Units Sold (Office + O365)
+YoY
+% O365
+
+52.5%
+$180
+$1,926
+
+Dec-22 Mar-23E Jun-23E
+60.3
+61.5
+62.1
+49%
+49%
+48%
+63.2
+64.4
+66.1
+1.9
+1.2
+1.7
+51%
+51%
+52%
+123.5
+125.9
+128.2
+7.5%
+7.8%
+9.5%
+
+2023E
+Sep-23E Dec-23E Mar-24E Jun-24E
+62.1
+64.4
+65.1
+66.3
+66.9
+48%
+49%
+49%
+49%
+49%
+66.1
+67.6
+68.7
+69.0
+69.5
+6.4
+1.5
+1.1
+0.3
+0.5
+52%
+51%
+51%
+51%
+51%
+128.2
+132.0
+133.8
+135.3
+136.4
+9.5%
+9.1%
+8.3%
+7.4%
+6.4%
+
+2.4
+1.5%
+
+3.0
+1.5%
+
+1.9
+1.5%
+
+1.8
+2.5%
+
+$172
+-4.2%
+$407
+-2.8%
+
+$164
+-2.1%
+$493
+-0.7%
+
+$159
+-6.9%
+$295
+-5.5%
+
+$162
+-5.1%
+$291
+-2.7%
+
+20.4
+
+22.3
+9.3%
+50%
+
+22.2
+-0.1%
+51%
+
+28.6
+28.8%
+61%
+
+29.5
+2.9%
+67%
+
+30.3
+2.9%
+68%
+
+7.4
+-2.2%
+68%
+
+8.7
+-2.9%
+66%
+
+7.3
+-5.4%
+75%
+
+6.9
+10.8%
+75%
+
+30.2
+-0.5%
+71%
+
+7.8
+6.6%
+70%
+
+8.5
+-1.3%
+65%
+
+6.9
+-5.4%
+73%
+
+6.3
+-8.3%
+72%
+
+29.6
+-2.0%
+70%
+
+32.1
+8.4%
+71%
+
+31.8
+-0.9%
+70%
+
+32.5
+2.4%
+71%
+
+Total Consumer Office Revenue
+YoY
+% O365
+
+$3,773
+
+$4,160
+10%
+52%
+
+$4,422
+6%
+55%
+
+$4,890
+11%
+58%
+
+$5,385
+10%
+68%
+
+$5,984
+11%
+71%
+
+$1,552
+7%
+73%
+
+$1,627
+-2%
+69%
+
+$1,424
+-1%
+78%
+
+$1,441
+1%
+79%
+
+$6,044
+1%
+75%
+
+$1,571
+1%
+74%
+
+$1,682
+3%
+71%
+
+$1,495
+5%
+80%
+
+$1,509
+5%
+81%
+
+$6,257
+4%
+76%
+
+$6,342
+1%
+76%
+
+$6,297
+-1%
+75%
+
+$6,472
+3%
+75%
+
+Gross Subscription Impact
+Net Subscription Impact
+
+($4,851)
+$107.6
+
+($5,643)
+$152.1
+
+($6,255)
+$416.8
+
+($7,677)
+($267.2)
+
+($9,333) ($10,737)
+$78.0
+$521.9
+
+($2,759)
+$227.4
+
+($2,852)
+$178.9
+
+($3,102)
+$183.2
+
+($2,650) ($11,362)
+$261.9
+$851.4
+
+($2,902)
+$218.0
+
+($2,971)
+$282.6
+
+($2,934)
+$402.4
+
+($2,597) ($11,404) ($11,933) ($12,383) ($12,841)
+$483.1 $1,386.1 $1,088.8 $1,039.5 $1,036.9
+
+Microsoft Cloud / Commercial Cloud
+Commercial Revenue Estimate
+Commercial Annuity %
+Annuity Non Commercial Cloud
+Recurring Other than Annuity On-prem Estimate
+Recurring Revenue Estimate
+Recurring Revenue as % of Total
+Commercial Rev YoY %
+
+$15,072
+$58,484
+$52,635
+$37,563
+$20,098
+$57,661
+59.7%
+
+$26,760
+$69,728
+$62,755
+$35,995
+$32,712
+$68,707
+62.3%
+
+$38,213
+$81,198
+$73,078
+$34,865
+$45,162
+$80,026
+63.6%
+
+$51,655 $69,057 $91,300
+$95,755 $113,454 $136,716
+$87,137 $103,243 $131,247
+$35,482 $34,185 $39,947
+$59,491 $78,830 $101,843
+$94,973 $113,016 $141,790
+66.4%
+67.2%
+71.5%
+17.9%
+18.5%
+20.5%
+
+$25,700
+$36,362
+$34,544
+$8,844
+$28,257
+$37,102
+74.0%
+15.8%
+
+$27,100
+$37,322
+$35,829
+$8,729
+$29,927
+$38,657
+73.3%
+13.5%
+
+$28,195
+$38,839
+$37,285
+$9,090
+$30,756
+$39,846
+78.2%
+12.3%
+
+$30,486 $111,481
+$43,859 $156,383
+$42,104 $150,127
+$11,619 $38,646
+$33,068 $122,009
+$44,687 $160,655
+79.5%
+76.5%
+15.9%
+14.4%
+
+$31,613
+$42,408
+$40,712
+$9,099
+$34,273
+$43,372
+78.2%
+16.6%
+
+$33,343
+$43,733
+$41,984
+$8,641
+$36,347
+$44,988
+76.8%
+17.2%
+
+$34,628
+$45,537
+$43,716
+$9,087
+$37,393
+$46,481
+79.4%
+17.2%
+
+$37,669 $137,254 $170,355 $209,987 $256,607
+$51,402 $183,081 $217,217 $257,593 $304,930
+$49,346 $175,757 $208,528 $247,289 $292,733
+$11,677 $38,503 $38,173 $37,303 $36,125
+$40,443 $148,456 $182,008 $221,890 $268,996
+$52,119 $186,960 $220,181 $259,192 $305,121
+80.6%
+78.8%
+79.9%
+81.1%
+82.3%
+17.2%
+17.1%
+18.6%
+18.6%
+18.4%
+
+Source: Company data, Morgan Stanley Research estimates
+
+9
+
+Exhibit 5: MSFT: Balance Sheet
+(US$ in Millions, Except per Share Data)
+
+FY
+2021
+Assets:
+Cash & Cash Equivalents
+$14,224
+Short-Term Investments
+116,110
+Accounts Receivable
+38,043
+Inventory
+2,636
+Current Deferred Taxes
+0
+Other
+13,393
+Current Assets
+$184,406
+Property & Equipment
+59,715
+Equity and Other Investments
+5,984
+Goodwill
+49,711
+Other Intangibles
+7,800
+Long-Term Deferred Taxes
+0
+Other Assets
+26,163
+Total Assets
+$333,779
+Liabilities& Equity:
+Accounts Payable
+$15,163
+ST Debt
+$8,072
+Accrued Compensation and Benefits 10,057
+Current Income Taxes
+2,174
+Current Unearned Revenue
+41,525
+Current Deferred Taxes
+0
+Securities Lending Payable
+0
+Other
+11,666
+Total Current Liabilities
+$88,657
+Long-Term Unearned Revenue
+2,616
+Other Long-Term Liabilities
+50,444
+Long term Debt
+50,074
+Minority Interest
+0
+Total Liabilities
+$191,791
+Preferred Stock
+0
+Common Stock and Paid-In Capital 83,111
+Retained Earnings
+57,055
+Accumulated Other Comprehensive Income
+1,822
+Shareholders' Equity
+$141,988
+Total Liabilities& Equity
+$333,779
+
+FY
+2022
+
+Sep-22
+
+Dec-22
+
+Mar-23E
+
+Jun-23E
+
+FY
+2023E
+
+Sep-23E
+
+Dec-23E
+
+Mar-24E
+
+Jun-24E
+
+FY
+2024E
+
+FY
+2025E
+
+FY
+2026E
+
+FY
+2027E
+
+$13,931
+90,826
+44,261
+3,742
+0
+16,924
+$169,684
+74,398
+6,891
+67,524
+11,298
+0
+35,045
+$364,840
+
+$22,884
+84,378
+31,279
+4,268
+0
+18,003
+$160,812
+77,037
+6,839
+67,459
+10,808
+0
+36,829
+$359,784
+
+$15,646
+83,862
+35,833
+2,980
+0
+19,502
+$157,823
+82,755
+7,097
+67,905
+10,354
+0
+38,618
+$364,552
+
+$8,000
+104,170
+34,206
+3,838
+1,200
+14,684
+$166,098
+87,897
+7,398
+67,905
+10,073
+0
+38,911
+$378,282
+
+$8,000
+113,555
+48,590
+4,243
+1,200
+17,261
+$192,849
+90,639
+7,699
+67,905
+9,787
+0
+35,440
+$404,319
+
+$8,000
+113,555
+48,590
+4,243
+1,200
+17,261
+$192,849
+90,639
+7,699
+67,905
+9,787
+0
+35,440
+$404,319
+
+$8,000
+114,505
+36,407
+4,417
+1,200
+19,459
+$183,988
+95,006
+8,000
+67,905
+8,853
+0
+40,334
+$404,087
+
+$8,000
+115,713
+37,245
+3,819
+1,200
+20,555
+$186,533
+99,233
+8,301
+67,905
+7,914
+0
+46,338
+$416,223
+
+$8,000
+125,554
+39,966
+5,360
+1,200
+16,503
+$196,582
+103,480
+8,602
+67,905
+6,969
+0
+43,953
+$427,491
+
+$8,000
+135,408
+56,555
+5,289
+1,200
+19,478
+$225,930
+109,066
+8,903
+67,905
+6,020
+0
+41,281
+$459,105
+
+$8,000
+135,408
+56,555
+5,289
+1,200
+19,478
+$225,930
+109,066
+8,903
+67,905
+6,020
+0
+41,281
+$459,105
+
+$8,500
+170,354
+65,533
+6,839
+1,200
+23,274
+$275,700
+130,234
+10,107
+67,905
+3,815
+0
+46,172
+$533,934
+
+$9,000
+216,840
+75,811
+7,887
+1,200
+27,593
+$338,331
+153,892
+11,311
+67,905
+2,914
+0
+49,919
+$624,272
+
+$9,500
+275,848
+87,914
+9,030
+1,200
+32,939
+$416,430
+179,928
+12,515
+67,905
+3,276
+0
+54,192
+$734,246
+
+$19,000
+$2,749
+10,661
+4,067
+45,538
+0
+0
+13,067
+$95,082
+2,870
+53,314
+47,032
+0
+$198,298
+0
+86,939
+84,281
+(4,678)
+$166,542
+$364,840
+
+$16,609
+$3,248
+7,405
+6,729
+41,340
+0
+0
+12,058
+$87,389
+2,549
+50,906
+45,374
+0
+$186,218
+0
+88,535
+92,374
+(7,343)
+$173,566
+$359,784
+
+$15,354
+$3,997
+9,030
+3,553
+36,982
+0
+0
+12,802
+$81,718
+2,644
+52,935
+44,119
+0
+$181,416
+0
+90,225
+99,368
+(6,457)
+$183,136
+$364,552
+
+$15,516
+$3,997
+9,995
+4,752
+35,254
+0
+0
+13,080
+$82,595
+3,487
+56,122
+44,119
+0
+$186,323
+0
+93,111
+105,304
+(6,457)
+$191,959
+$378,282
+
+$20,360
+$3,997
+11,482
+5,845
+45,866
+0
+0
+13,328
+$100,877
+4,536
+52,730
+43,119
+0
+$201,263
+0
+96,011
+113,502
+(6,457)
+$203,056
+$404,319
+
+$20,360
+$3,997
+11,482
+5,845
+45,866
+0
+0
+13,328
+$100,877
+4,536
+52,730
+43,119
+0
+$201,263
+0
+96,011
+113,502
+(6,457)
+$203,056
+$404,319
+
+$17,533
+$3,997
+7,777
+9,389
+41,877
+0
+0
+12,663
+$93,236
+4,142
+49,920
+41,807
+0
+$189,105
+0
+98,923
+122,517
+(6,457)
+$214,982
+$404,087
+
+$16,084
+$3,997
+10,393
+6,437
+37,978
+0
+0
+14,734
+$89,623
+3,756
+56,096
+40,494
+0
+$189,969
+0
+101,848
+130,864
+(6,457)
+$226,255
+$416,223
+
+$16,908
+$3,997
+10,799
+7,245
+37,091
+0
+0
+14,132
+$90,172
+3,668
+56,530
+39,182
+0
+$189,552
+0
+104,785
+139,610
+(6,457)
+$237,939
+$427,491
+
+$23,245
+$3,997
+12,515
+8,678
+48,286
+0
+0
+14,527
+$111,248
+4,776
+53,197
+37,869
+0
+$207,089
+0
+107,736
+150,737
+(6,457)
+$252,016
+$459,105
+
+$23,245
+$3,997
+12,515
+8,678
+48,286
+0
+0
+14,527
+$111,248
+4,776
+53,197
+37,869
+0
+$207,089
+0
+107,736
+150,737
+(6,457)
+$252,016
+$459,105
+
+$25,925
+$3,997
+14,462
+10,196
+50,656
+0
+0
+16,788
+$122,023
+5,010
+58,642
+35,619
+0
+$221,294
+0
+119,671
+199,426
+(6,457)
+$312,640
+$533,934
+
+$29,750
+$3,997
+16,600
+11,934
+53,152
+0
+0
+19,268
+$134,701
+5,257
+64,755
+32,619
+0
+$237,332
+0
+131,819
+261,578
+(6,457)
+$386,940
+$624,272
+
+$33,892
+$3,997
+19,204
+14,054
+55,780
+0
+0
+22,292
+$149,220
+5,517
+72,513
+28,619
+0
+$255,868
+0
+144,185
+340,649
+(6,457)
+$478,378
+$734,246
+
+Source: Company data, Morgan Stanley Research estimates
+
+Exhibit 6: MSFT: Cash Flow Statement
+(US$ in Millions, Except per Share Data)
+
+FY
+2021
+Net Income
+$61,271
+Depreciation and Amortization
+11,686
+Stock-Based Compensation
+6,118
+Tax Benefit from Exercise of Stock Options
+0
+Deferred Taxes
+(150)
+(Gain) / Loss on Sale of Short-Term Investments (1,249)
+Acquired In-Process R&D
+0
+Cumulative Change in Accounting
+0
+Other Items
+0
+Fundsfrom Operations
+$77,676
+(Inc.) Dec. in Accounts Receivable
+(6,481)
+(Inc.) Dec. in Other Current Assets
+(1,669)
+(Inc.) Dec. in Other Long-Term Assets
+(3,459)
+Inc. (Dec.) in Other Current Liabilities
+6,947
+Inc. (Dec.) in Other Long-Term Liabilities
+(907)
+Booking of Unearned Revenue
+94,237
+Recognition of Unearned Revenue
+(89,604)
+Change in Net Working Capital
+($936)
+Cash Flow from Operations
+$76,740
+YoY Growth
+26%
+
+FY
+2022
+$72,738
+14,460
+7,502
+0
+(5,702)
+(409)
+0
+0
+0
+$88,589
+(6,834)
+(1,832)
+(2,805)
+5,287
+1,521
+111,297
+(106,188)
+$446
+$89,035
+16%
+
+Sep-22
+Dec-22
+Mar-23E
+$17,556
+$16,425
+$16,624
+2,790
+3,648
+2,226
+2,192
+2,538
+2,551
+0
+0
+0
+(1,191)
+(1,305)
+(1,200)
+(22)
+214
+0
+0
+0
+0
+0
+0
+0
+0
+0
+$21,325
+$21,520
+$20,201
+11,729
+(3,164)
+1,627
+(875)
+913
+3,960
+(666)
+(65)
+(293)
+(5,591)
+(239)
+2,605
+598
+(2,606)
+3,187
+24,774
+23,688
+28,290
+(28,096)
+(28,874)
+(29,175)
+$1,873
+($10,347)
+$10,202
+$23,198
+$11,173
+$30,403
+-5%
+-23%
+20%
+
+Jun-23E
+$19,051
+5,988
+2,563
+0
+0
+0
+0
+0
+$27,602
+(14,384)
+(2,982)
+3,471
+7,670
+(3,392)
+42,356
+(30,694)
+$2,044
+$29,646
+20%
+
+FY
+2023E
+$69,656
+14,652
+9,844
+0
+(3,696)
+192
+0
+0
+0
+$90,648
+(4,192)
+1,016
+2,447
+4,445
+(2,213)
+119,108
+(116,840)
+$3,772
+$94,420
+6%
+
+Capital Expenditures
+(20,622)
+Acquisitions, Net of Cash Acquired
+(8,909)
+Purchase of Short-Term Investments
+(62,924)
+Proceeds from Sales/Maturities of Short-Term Investments
+65,800
+Proceeds from Sales/Maturities of Long-Term Investments
+0
+Other
+(922)
+Net Cash Used in Investing Activities
+($27,577)
+Debt issuance (repayment)
+(5,504)
+Common Stock Dividends
+(16,521)
+Proceeds from Sale of Common Stock
+1,693
+Repurchase of Common Stock (Treasury Shares) (27,385)
+Other
+(769)
+Net Cash Provided by Financing Activities ($48,486)
+Translation Gains (Losses)
+(29)
+Inc. (Dec.) in Cash and Cash Equivalents
+$648
+Beginning Cash and Cash Equivalents
+13,576
+Ending Cash and Cash Equivalents
+$14,224
+
+(23,886)
+(22,038)
+(26,456)
+44,894
+0
+(2,825)
+($30,311)
+(9,023)
+(18,135)
+1,841
+(32,696)
+(863)
+($58,876)
+(141)
+($293)
+14,224
+$13,931
+
+(6,283)
+(349)
+(5,013)
+9,373
+0
+(860)
+($3,132)
+(1,000)
+(4,621)
+575
+(5,573)
+(264)
+($10,883)
+(230)
+$8,953
+13,931
+$22,884
+
+(7,764)
+(679)
+(51,885)
+42,500
+0
+(301)
+($18,129)
+(1,000)
+(5,059)
+336
+(5,794)
+0
+($11,517)
+0
+$0
+8,000
+$8,000
+
+(26,729)
+(2,386)
+(131,305)
+106,076
+0
+(1,763)
+($56,107)
+(2,750)
+(19,808)
+1,490
+(22,452)
+(581)
+($44,101)
+(142)
+($5,931)
+13,931
+$8,000
+
+Free Cash Flow
+YoY
+
+56,118
+24%
+
+65,149
+16%
+
+16,915
+-10%
+
+(6,274)
+(679)
+(11,599)
+11,703
+0
+(301)
+($7,150)
+(750)
+(5,066)
+243
+(5,459)
+(317)
+($11,349)
+88
+($7,238)
+22,884
+$15,646
+
+4,899
+-43%
+
+(6,408)
+(679)
+(62,808)
+42,500
+0
+(301)
+($27,696)
+0
+(5,063)
+336
+(5,625)
+0
+($10,352)
+0
+($7,646)
+15,646
+$8,000
+
+23,995
+20%
+
+21,882
+23%
+
+67,690
+4%
+
+Sep-23E
+$20,448
+4,066
+2,576
+0
+0
+0
+0
+0
+
+Dec-23E
+$19,661
+4,202
+2,589
+0
+0
+0
+0
+0
+
+Mar-24E
+$20,228
+4,338
+2,602
+0
+0
+0
+0
+0
+
+$27,091
+12,182
+(2,371)
+(4,895)
+(3,652)
+(2,810)
+25,961
+(30,344)
+($5,929)
+$21,162
+-9%
+
+$26,452
+(838)
+(499)
+(6,003)
+286
+6,175
+26,899
+(31,184)
+($5,163)
+$21,288
+91%
+
+$27,169
+(2,720)
+2,512
+2,385
+1,437
+434
+30,534
+(31,509)
+$3,073
+$30,242
+-1%
+
+FY
+FY
+FY
+FY
+2024E
+2025E
+2026E
+2027E
+$83,121
+$97,958
+$115,030
+$135,813
+17,144
+19,289
+21,903
+24,924
+10,383
+10,592
+10,805
+11,023
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+$29,935
+$110,647
+$127,838
+$147,739
+$171,759
+(16,590)
+(7,966)
+(8,978)
+(10,278)
+(12,103)
+(2,905)
+(3,263)
+(5,346)
+(5,366)
+(6,489)
+2,672
+(5,841)
+(4,891)
+(3,747)
+(4,273)
+9,880
+7,951
+8,405
+10,182
+11,890
+(3,333)
+467
+5,445
+6,114
+7,758
+45,452
+128,846
+138,886
+149,927
+161,848
+(33,150)
+(126,187)
+(136,282)
+(147,184)
+(158,959)
+$2,027
+($5,993)
+($2,761)
+($353)
+($328)
+$31,962
+$104,654
+$125,078
+$147,386
+$171,431
+8%
+11%
+20%
+18%
+16%
+
+(7,100)
+(400)
+(43,450)
+42,500
+0
+(301)
+($8,751)
+(1,313)
+(5,561)
+336
+(5,873)
+0
+($12,410)
+0
+$0
+8,000
+$8,000
+
+(7,090)
+(400)
+(43,708)
+42,500
+0
+(301)
+($8,999)
+(1,313)
+(5,557)
+336
+(5,756)
+0
+($12,290)
+0
+($0)
+8,000
+$8,000
+
+(7,241)
+(400)
+(52,341)
+42,500
+0
+(301)
+($17,783)
+(1,313)
+(5,554)
+336
+(5,928)
+0
+($12,459)
+0
+$0
+8,000
+$8,000
+
+(8,774)
+(400)
+(52,354)
+42,500
+0
+(301)
+($19,328)
+(1,313)
+(5,551)
+336
+(6,106)
+0
+($12,634)
+0
+($0)
+8,000
+$8,000
+
+14,062
+-17%
+
+14,199
+190%
+
+23,001
+-4%
+
+Jun-24E
+$22,783
+4,537
+2,615
+0
+0
+0
+0
+0
+
+23,189
+6%
+
+(30,204)
+(1,600)
+(191,853)
+170,000
+0
+(1,204)
+($54,861)
+(5,250)
+(22,223)
+1,343
+(23,663)
+0
+($49,793)
+0
+($0)
+8,000
+$8,000
+
+74,450
+10%
+
+(34,131)
+(4,122)
+(204,946)
+170,000
+0
+(1,204)
+($74,402)
+(2,250)
+(24,397)
+1,343
+(24,872)
+0
+($50,176)
+0
+$500
+8,000
+$8,500
+
+90,947
+22%
+
+(38,226)
+(6,435)
+(216,486)
+170,000
+0
+(1,204)
+($92,351)
+(3,000)
+(26,798)
+1,343
+(26,080)
+0
+($54,535)
+0
+$500
+8,500
+$9,000
+
+109,160
+20%
+
+(42,431)
+(8,889)
+(229,008)
+170,000
+0
+(1,204)
+($111,533)
+(4,000)
+(29,452)
+1,343
+(27,289)
+0
+($59,398)
+0
+$500
+9,000
+$9,500
+
+129,000
+18%
+
+Source: Company data, Morgan Stanley Research estimates
+
+10
+
+Disclosure Section
+The information and opinions in Morgan Stanley Research were prepared by Morgan Stanley & Co. LLC, and/or Morgan Stanley C.T.V.M. S.A., and/or Morgan
+Stanley Mexico, Casa de Bolsa, S.A. de C.V., and/or Morgan Stanley Canada Limited. As used in this disclosure section, "Morgan Stanley" includes Morgan
+Stanley & Co. LLC, Morgan Stanley C.T.V.M. S.A., Morgan Stanley Mexico, Casa de Bolsa, S.A. de C.V., Morgan Stanley Canada Limited and their affiliates
+as necessary.
+For important disclosures, stock price charts and equity rating histories regarding companies that are the subject of this report, please see the Morgan
+Stanley Research Disclosure Website at www.morganstanley.com/researchdisclosures, or contact your investment representative or Morgan Stanley
+Research at 1585 Broadway, (Attention: Research Management), New York, NY, 10036 USA.
+For valuation methodology and risks associated with any recommendation, rating or price target referenced in this research report, please contact the Client
+Support Team as follows: US/Canada +1 800 303-2495; Hong Kong +852 2848-5999; Latin America +1 718 754-5444 (U.S.); London +44 (0)20-7425-8169;
+Singapore +65 6834-6860; Sydney +61 (0)2-9770-1505; Tokyo +81 (0)3-6836-9000. Alternatively you may contact your investment representative or Morgan
+Stanley Research at 1585 Broadway, (Attention: Research Management), New York, NY 10036 USA.
+
+Analyst Certification
+The following analysts hereby certify that their views about the companies and their securities discussed in this report are accurately expressed and that they
+have not received and will not receive direct or indirect compensation in exchange for expressing specific recommendations or views in this report: Keith
+Weiss, CFA.
+.
+
+Global Research Conflict Management Policy
+Morgan Stanley Research has been published in accordance with our conflict management policy, which is available at
+www.morganstanley.com/institutional/research/conflictpolicies. A Portuguese version of the policy can be found at www.morganstanley.com.br
+
+Important Regulatory Disclosures on Subject Companies
+The analyst or strategist (or a household member) identified below owns the following securities (or related derivatives): Ryan A Bressner - Microsoft(common
+or preferred stock), Salesforce.com(common or preferred stock); Theodor J Thun - Microsoft(common or preferred stock), Snowflake Inc.(common or preferred
+stock), Twilio Inc(common or preferred stock).
+As of December 30, 2022, Morgan Stanley beneficially owned 1% or more of a class of common equity securities of the following companies covered in
+Morgan Stanley Research: 2u Inc, 8x8 Inc, Adobe Inc., Akamai Technologies, Inc., Appian Corp, Autodesk, BigCommerce Holdings, Inc., Bill.com Holdings,
+Box Inc, Chegg Inc, Cloudflare Inc, Confluent, Inc., Couchbase, Inc., Coupa Software Inc, CrowdStrike Holdings Inc, CyberArk Software Ltd, Datadog, Inc.,
+DocuSign Inc, Domo Inc, Fastly Inc., Five9 Inc, ForgeRock Inc, Freshworks Inc, GoDaddy Inc, HashiCorp, Intuit, Liveramp Holdings Inc, Microsoft, MongoDB
+Inc, Okta, Inc., PagerDuty, Inc., Palo Alto Networks Inc, Qualys Inc, Rapid7 Inc, RingCentral Inc, Sabre Corp, Salesforce.com, Samsara Inc, Semrush
+Holdings Inc -A, SentinelOne, Inc., ServiceNow Inc, Shopify Inc, Snowflake Inc., Splunk Inc, Sprout Social Inc, Sumo Logic Inc, Twilio Inc, Wix.Com Ltd,
+Zoom Video Communications Inc, ZoomInfo Technologies Inc, Zscaler Inc.
+Within the last 12 months, Morgan Stanley managed or co-managed a public offering (or 144A offering) of securities of Workday Inc.
+Within the last 12 months, Morgan Stanley has received compensation for investment banking services from 2u Inc, Akamai Technologies, Inc., Autodesk,
+Cvent, DigitalOcean Holdings Inc, Docebo Inc., Fastly Inc., Gen Digital Inc., GoDaddy Inc, Intuit, KnowBe4, Matterport Inc, Palantir Technologies Inc., Sabre
+Corp, Shopify Inc, Toast, Inc., Workday Inc, ZoomInfo Technologies Inc.
+In the next 3 months, Morgan Stanley expects to receive or intends to seek compensation for investment banking services from 2u Inc, 8x8 Inc, Adobe Inc.,
+Akamai Technologies, Inc., Alteryx Inc, Amplitude Inc., Appian Corp, Asana Inc, Atlassian Corporation PLC, Autodesk, BigCommerce Holdings, Inc., Bill.com
+Holdings, Box Inc, C3.ai, Check Point Software Technologies Ltd., Chegg Inc, Cloudflare Inc, Confluent, Inc., Couchbase, Inc., Coupa Software Inc, Coursera,
+Inc., CrowdStrike Holdings Inc, Cvent, CyberArk Software Ltd, Datadog, Inc., DigitalOcean Holdings Inc, Docebo Inc., DocuSign Inc, Fastly Inc., Five9 Inc,
+ForgeRock Inc, Fortinet Inc., Freshworks Inc, Gen Digital Inc., GoDaddy Inc, HashiCorp, HubSpot, Inc., Instructure Holdings Inc, Intuit, JFrog Ltd., Karooooo
+Ltd, KnowBe4, LegalZoom.com Inc, Lightspeed POS Inc., Liveramp Holdings Inc, Matterport Inc, Microsoft, MongoDB Inc, New Relic Inc, NICE Ltd., Okta,
+Inc., Oracle Corporation, PagerDuty, Inc., Palantir Technologies Inc., Palo Alto Networks Inc, Qualtrics, Qualys Inc, Rapid7 Inc, RingCentral Inc, Sabre Corp,
+Salesforce.com, Samsara Inc, Semrush Holdings Inc -A, SentinelOne, Inc., ServiceNow Inc, Shopify Inc, Smartsheet Inc, Snowflake Inc., Solarwinds Corp,
+Splunk Inc, Sprinklr Inc, Sprout Social Inc, Sumo Logic Inc, Tenable Holdings Inc, Toast, Inc., Twilio Inc, Udemy Inc, UiPath Inc, Varonis Systems, Inc.,
+Vertex Inc., WalkMe Ltd, Workday Inc, Zeta Global Holdings Corp, Zoom Video Communications Inc, ZoomInfo Technologies Inc, Zscaler Inc.
+Within the last 12 months, Morgan Stanley has received compensation for products and services other than investment banking services from Adobe Inc.,
+Akamai Technologies, Inc., Atlassian Corporation PLC, Autodesk, Box Inc, Check Point Software Technologies Ltd., Confluent, Inc., DocuSign Inc,
+Freshworks Inc, Gen Digital Inc., GoDaddy Inc, Intuit, Liveramp Holdings Inc, Microsoft, NICE Ltd., Oracle Corporation, Qualys Inc, RingCentral Inc, Sabre
+Corp, Salesforce.com, Snowflake Inc., Solarwinds Corp, Workday Inc, Zoom Video Communications Inc, Zscaler Inc.
+Within the last 12 months, Morgan Stanley has provided or is providing investment banking services to, or has an investment banking client relationship with,
+the following company: 2u Inc, 8x8 Inc, Adobe Inc., Akamai Technologies, Inc., Alteryx Inc, Amplitude Inc., Appian Corp, Asana Inc, Atlassian Corporation
+PLC, Autodesk, BigCommerce Holdings, Inc., Bill.com Holdings, Box Inc, C3.ai, Check Point Software Technologies Ltd., Chegg Inc, Cloudflare Inc,
+Confluent, Inc., Couchbase, Inc., Coupa Software Inc, Coursera, Inc., CrowdStrike Holdings Inc, Cvent, CyberArk Software Ltd, Datadog, Inc., DigitalOcean
+Holdings Inc, Docebo Inc., DocuSign Inc, Fastly Inc., Five9 Inc, ForgeRock Inc, Fortinet Inc., Freshworks Inc, Gen Digital Inc., GoDaddy Inc, HashiCorp,
+HubSpot, Inc., Instructure Holdings Inc, Intuit, JFrog Ltd., Karooooo Ltd, KnowBe4, LegalZoom.com Inc, Lightspeed POS Inc., Liveramp Holdings Inc,
+Matterport Inc, Microsoft, MongoDB Inc, New Relic Inc, NICE Ltd., Okta, Inc., Oracle Corporation, PagerDuty, Inc., Palantir Technologies Inc., Palo Alto
+Networks Inc, Qualtrics, Qualys Inc, Rapid7 Inc, RingCentral Inc, Sabre Corp, Salesforce.com, Samsara Inc, Semrush Holdings Inc -A, SentinelOne, Inc.,
+ServiceNow Inc, Shopify Inc, Smartsheet Inc, Snowflake Inc., Solarwinds Corp, Splunk Inc, Sprinklr Inc, Sprout Social Inc, Sumo Logic Inc, Tenable Holdings
+Inc, Toast, Inc., Twilio Inc, Udemy Inc, UiPath Inc, Varonis Systems, Inc., Vertex Inc., WalkMe Ltd, Workday Inc, Zeta Global Holdings Corp, Zoom Video
+Communications Inc, ZoomInfo Technologies Inc, Zscaler Inc.
+Within the last 12 months, Morgan Stanley has either provided or is providing non-investment banking, securities-related services to and/or in the past has
+entered into an agreement to provide services or has a client relationship with the following company: 2u Inc, 8x8 Inc, Adobe Inc., Akamai Technologies, Inc.,
+Atlassian Corporation PLC, Autodesk, BigCommerce Holdings, Inc., Box Inc, Check Point Software Technologies Ltd., Chegg Inc, Cloudflare Inc, Confluent,
+Inc., Coupa Software Inc, CyberArk Software Ltd, Datadog, Inc., DocuSign Inc, Five9 Inc, Fortinet Inc., Freshworks Inc, Gen Digital Inc., GoDaddy Inc,
+HubSpot, Inc., Intuit, Liveramp Holdings Inc, Microsoft, MongoDB Inc, NICE Ltd., Okta, Inc., Oracle Corporation, PagerDuty, Inc., Palo Alto Networks Inc,
+Qualys Inc, RingCentral Inc, Sabre Corp, Salesforce.com, Secureworks Corp, ServiceNow Inc, Shopify Inc, Snowflake Inc., Solarwinds Corp, Splunk Inc, Twilio
+Inc, VMware Inc, Wix.Com Ltd, Workday Inc, Zoom Video Communications Inc, Zscaler Inc.
+An employee, director or consultant of Morgan Stanley is a director of GoDaddy Inc, Tenable Holdings Inc. This person is not a research analyst or a member
+of a research analyst's household.
+Morgan Stanley & Co. LLC makes a market in the securities of 2u Inc, 8x8 Inc, Adobe Inc., Akamai Technologies, Inc., Alteryx Inc, Amplitude Inc., Appian
+Corp, Atlassian Corporation PLC, Autodesk, BigCommerce Holdings, Inc., Box Inc, C3.ai, Check Point Software Technologies Ltd., Chegg Inc, Confluent, Inc.,
+11
+
+Couchbase, Inc., Coursera, Inc., CyberArk Software Ltd, Datadog, Inc., DigitalOcean Holdings Inc, Docebo Inc., DocuSign Inc, Domo Inc, Five9 Inc, Fortinet
+Inc., Freshworks Inc, Gen Digital Inc., GoDaddy Inc, HashiCorp, Intuit, JFrog Ltd., Karooooo Ltd, KnowBe4, LegalZoom.com Inc, Liveramp Holdings Inc,
+Microsoft, New Relic Inc, Oracle Corporation, PagerDuty, Inc., Palo Alto Networks Inc, Qualtrics, Qualys Inc, Rapid7 Inc, RingCentral Inc, Sabre Corp,
+Salesforce.com, Secureworks Corp, Semrush Holdings Inc -A, ServiceNow Inc, Shopify Inc, Smartsheet Inc, Solarwinds Corp, Splunk Inc, Sprinklr Inc, Sprout
+Social Inc, Sumo Logic Inc, Tenable Holdings Inc, Udemy Inc, Varonis Systems, Inc., Vertex Inc., VMware Inc, WalkMe Ltd, Wix.Com Ltd, Workday Inc, Zeta
+Global Holdings Corp, Zoom Video Communications Inc, ZoomInfo Technologies Inc, Zscaler Inc.
+The equity research analysts or strategists principally responsible for the preparation of Morgan Stanley Research have received compensation based upon
+various factors, including quality of research, investor client feedback, stock picking, competitive factors, firm revenues and overall investment banking
+revenues. Equity Research analysts' or strategists' compensation is not linked to investment banking or capital markets transactions performed by Morgan
+Stanley or the profitability or revenues of particular trading desks.
+Morgan Stanley and its affiliates do business that relates to companies/instruments covered in Morgan Stanley Research, including market making, providing
+liquidity, fund management, commercial banking, extension of credit, investment services and investment banking. Morgan Stanley sells to and buys from
+customers the securities/instruments of companies covered in Morgan Stanley Research on a principal basis. Morgan Stanley may have a position in the debt
+of the Company or instruments discussed in this report. Morgan Stanley trades or may trade as principal in the debt securities (or in related derivatives) that
+are the subject of the debt research report.
+Certain disclosures listed above are also for compliance with applicable regulations in non-US jurisdictions.
+
+STOCK RATINGS
+Morgan Stanley uses a relative rating system using terms such as Overweight, Equal-weight, Not-Rated or Underweight (see definitions below). Morgan
+Stanley does not assign ratings of Buy, Hold or Sell to the stocks we cover. Overweight, Equal-weight, Not-Rated and Underweight are not the equivalent of
+buy, hold and sell. Investors should carefully read the definitions of all ratings used in Morgan Stanley Research. In addition, since Morgan Stanley Research
+contains more complete information concerning the analyst's views, investors should carefully read Morgan Stanley Research, in its entirety, and not infer the
+contents from the rating alone. In any case, ratings (or research) should not be used or relied upon as investment advice. An investor's decision to buy or sell a
+stock should depend on individual circumstances (such as the investor's existing holdings) and other considerations.
+
+Global Stock Ratings Distribution
+(as of December 31, 2022)
+The Stock Ratings described below apply to Morgan Stanley's Fundamental Equity Research and do not apply to Debt Research produced by the Firm.
+For disclosure purposes only (in accordance with FINRA requirements), we include the category headings of Buy, Hold, and Sell alongside our ratings of
+Overweight, Equal-weight, Not-Rated and Underweight. Morgan Stanley does not assign ratings of Buy, Hold or Sell to the stocks we cover. Overweight,
+Equal-weight, Not-Rated and Underweight are not the equivalent of buy, hold, and sell but represent recommended relative weightings (see definitions below).
+To satisfy regulatory requirements, we correspond Overweight, our most positive stock rating, with a buy recommendation; we correspond Equal-weight and
+Not-Rated to hold and Underweight to sell recommendations, respectively.
+COVERAGE UNIVERSE
+
+INVESTMENT BANKING CLIENTS (IBC)
+
+OTHER MATERIAL
+INVESTMENT SERVICES
+CLIENTS (MISC)
+
+STOCK RATING
+CATEGORY
+
+COUNT
+
+% OF
+TOTAL
+
+COUNT
+
+% OF
+TOTAL IBC
+
+% OF
+RATING
+CATEGORY
+
+COUNT
+
+% OF
+TOTAL
+OTHER
+MISC
+
+Overweight/Buy
+Equal-weight/Hold
+Not-Rated/Hold
+Underweight/Sell
+
+1352
+1659
+3
+651
+
+37%
+45%
+0%
+18%
+
+278
+309
+0
+82
+
+42%
+46%
+0%
+12%
+
+21%
+19%
+0%
+13%
+
+593
+735
+0
+224
+
+38%
+47%
+0%
+14%
+
+TOTAL
+
+3,665
+
+669
+
+1552
+
+Data include common stock and ADRs currently assigned ratings. Investment Banking Clients are companies from whom Morgan Stanley received investment
+banking compensation in the last 12 months. Due to rounding off of decimals, the percentages provided in the "% of total" column may not add up to exactly
+100 percent.
+
+Analyst Stock Ratings
+Overweight (O). The stock's total return is expected to exceed the average total return of the analyst's industry (or industry team's) coverage universe, on a
+risk-adjusted basis, over the next 12-18 months.
+Equal-weight (E). The stock's total return is expected to be in line with the average total return of the analyst's industry (or industry team's) coverage universe,
+on a risk-adjusted basis, over the next 12-18 months.
+Not-Rated (NR). Currently the analyst does not have adequate conviction about the stock's total return relative to the average total return of the analyst's
+industry (or industry team's) coverage universe, on a risk-adjusted basis, over the next 12-18 months.
+Underweight (U). The stock's total return is expected to be below the average total return of the analyst's industry (or industry team's) coverage universe, on a
+risk-adjusted basis, over the next 12-18 months.
+Unless otherwise specified, the time frame for price targets included in Morgan Stanley Research is 12 to 18 months.
+
+Analyst Industry Views
+Attractive (A): The analyst expects the performance of his or her industry coverage universe over the next 12-18 months to be attractive vs. the relevant broad
+market benchmark, as indicated below.
+In-Line (I): The analyst expects the performance of his or her industry coverage universe over the next 12-18 months to be in line with the relevant broad market
+benchmark, as indicated below.
+Cautious (C): The analyst views the performance of his or her industry coverage universe over the next 12-18 months with caution vs. the relevant broad market
+benchmark, as indicated below.
+Benchmarks for each region are as follows: North America - S&P 500; Latin America - relevant MSCI country index or MSCI Latin America Index; Europe MSCI Europe; Japan - TOPIX; Asia - relevant MSCI country index or MSCI sub-regional index or MSCI AC Asia Pacific ex Japan Index.
+12
+
+Stock Price, Price Target and Rating History (See Rating Definitions)
+
+Important Disclosures for Morgan Stanley Smith Barney LLC & E*TRADE Securities LLC Customers
+Important disclosures regarding the relationship between the companies that are the subject of Morgan Stanley Research and Morgan Stanley Smith Barney
+LLC or Morgan Stanley or any of their affiliates, are available on the Morgan Stanley Wealth Management disclosure website at
+www.morganstanley.com/online/researchdisclosures. For Morgan Stanley specific disclosures, you may refer to
+www.morganstanley.com/researchdisclosures.
+Each Morgan Stanley research report is reviewed and approved on behalf of Morgan Stanley Smith Barney LLC and E*TRADE Securities LLC. This review and
+approval is conducted by the same person who reviews the research report on behalf of Morgan Stanley. This could create a conflict of interest.
+
+Other Important Disclosures
+Morgan Stanley & Co. International PLC and its affiliates have a significant financial interest in the debt securities of 2u Inc, Adobe Inc., Akamai Technologies,
+Inc., Autodesk, Bill.com Holdings, Box Inc, Chegg Inc, Coupa Software Inc, CrowdStrike Holdings Inc, Cvent, Datadog, Inc., DigitalOcean Holdings Inc,
+DocuSign Inc, Intuit, KnowBe4, LegalZoom.com Inc, Microsoft, NICE Ltd., Okta, Inc., Oracle Corporation, Palantir Technologies Inc., Palo Alto Networks Inc,
+Sabre Corp, Salesforce.com, ServiceNow Inc, Splunk Inc, Toast, Inc., VMware Inc, Workday Inc, Zscaler Inc.
+Morgan Stanley Research policy is to update research reports as and when the Research Analyst and Research Management deem appropriate, based on
+developments with the issuer, the sector, or the market that may have a material impact on the research views or opinions stated therein. In addition, certain
+Research publications are intended to be updated on a regular periodic basis (weekly/monthly/quarterly/annual) and will ordinarily be updated with that
+frequency, unless the Research Analyst and Research Management determine that a different publication schedule is appropriate based on current conditions.
+Morgan Stanley is not acting as a municipal advisor and the opinions or views contained herein are not intended to be, and do not constitute, advice within the
+meaning of Section 975 of the Dodd-Frank Wall Street Reform and Consumer Protection Act.
+Morgan Stanley produces an equity research product called a "Tactical Idea." Views contained in a "Tactical Idea" on a particular stock may be contrary to the
+recommendations or views expressed in research on the same stock. This may be the result of differing time horizons, methodologies, market events, or other
+factors. For all research available on a particular stock, please contact your sales representative or go to Matrix at http://www.morganstanley.com/matrix.
+Morgan Stanley Research is provided to our clients through our proprietary research portal on Matrix and also distributed electronically by Morgan Stanley to
+clients. Certain, but not all, Morgan Stanley Research products are also made available to clients through third-party vendors or redistributed to clients through
+alternate electronic means as a convenience. For access to all available Morgan Stanley Research, please contact your sales representative or go to Matrix at
+http://www.morganstanley.com/matrix.
+Any access and/or use of Morgan Stanley Research is subject to Morgan Stanley's Terms of Use (http://www.morganstanley.com/terms.html). By accessing
+and/or using Morgan Stanley Research, you are indicating that you have read and agree to be bound by our Terms of Use
+(http://www.morganstanley.com/terms.html). In addition you consent to Morgan Stanley processing your personal data and using cookies in accordance with
+our Privacy Policy and our Global Cookies Policy (http://www.morganstanley.com/privacy_pledge.html), including for the purposes of setting your preferences
+and to collect readership data so that we can deliver better and more personalized service and products to you. To find out more information about how Morgan
+Stanley processes personal data, how we use cookies and how to reject cookies see our Privacy Policy and our Global Cookies Policy
+(http://www.morganstanley.com/privacy_pledge.html).
+If you do not agree to our Terms of Use and/or if you do not wish to provide your consent to Morgan Stanley processing your personal data or using cookies
+please do not access our research.
+Morgan Stanley Research does not provide individually tailored investment advice. Morgan Stanley Research has been prepared without regard to the
+circumstances and objectives of those who receive it. Morgan Stanley recommends that investors independently evaluate particular investments and
+strategies, and encourages investors to seek the advice of a financial adviser. The appropriateness of an investment or strategy will depend on an investor's
+13
+
+circumstances and objectives. The securities, instruments, or strategies discussed in Morgan Stanley Research may not be suitable for all investors, and
+certain investors may not be eligible to purchase or participate in some or all of them. Morgan Stanley Research is not an offer to buy or sell or the solicitation
+of an offer to buy or sell any security/instrument or to participate in any particular trading strategy. The value of and income from your investments may vary
+because of changes in interest rates, foreign exchange rates, default rates, prepayment rates, securities/instruments prices, market indexes, operational or
+financial conditions of companies or other factors. There may be time limitations on the exercise of options or other rights in securities/instruments
+transactions. Past performance is not necessarily a guide to future performance. Estimates of future performance are based on assumptions that may not be
+realized. If provided, and unless otherwise stated, the closing price on the cover page is that of the primary exchange for the subject company's
+securities/instruments.
+The fixed income research analysts, strategists or economists principally responsible for the preparation of Morgan Stanley Research have received
+compensation based upon various factors, including quality, accuracy and value of research, firm profitability or revenues (which include fixed income trading
+and capital markets profitability or revenues), client feedback and competitive factors. Fixed Income Research analysts', strategists' or economists'
+compensation is not linked to investment banking or capital markets transactions performed by Morgan Stanley or the profitability or revenues of particular
+trading desks.
+The "Important Regulatory Disclosures on Subject Companies" section in Morgan Stanley Research lists all companies mentioned where Morgan Stanley
+owns 1% or more of a class of common equity securities of the companies. For all other companies mentioned in Morgan Stanley Research, Morgan Stanley
+may have an investment of less than 1% in securities/instruments or derivatives of securities/instruments of companies and may trade them in ways different
+from those discussed in Morgan Stanley Research. Employees of Morgan Stanley not involved in the preparation of Morgan Stanley Research may have
+investments in securities/instruments or derivatives of securities/instruments of companies mentioned and may trade them in ways different from those
+discussed in Morgan Stanley Research. Derivatives may be issued by Morgan Stanley or associated persons.
+With the exception of information regarding Morgan Stanley, Morgan Stanley Research is based on public information. Morgan Stanley makes every effort to
+use reliable, comprehensive information, but we make no representation that it is accurate or complete. We have no obligation to tell you when opinions or
+information in Morgan Stanley Research change apart from when we intend to discontinue equity research coverage of a subject company. Facts and views
+presented in Morgan Stanley Research have not been reviewed by, and may not reflect information known to, professionals in other Morgan Stanley business
+areas, including investment banking personnel.
+Morgan Stanley Research personnel may participate in company events such as site visits and are generally prohibited from accepting payment by the
+company of associated expenses unless pre-approved by authorized members of Research management.
+Morgan Stanley may make investment decisions that are inconsistent with the recommendations or views in this report.
+To our readers based in Taiwan or trading in Taiwan securities/instruments: Information on securities/instruments that trade in Taiwan is distributed by Morgan
+Stanley Taiwan Limited ("MSTL"). Such information is for your reference only. The reader should independently evaluate the investment risks and is solely
+responsible for their investment decisions. Morgan Stanley Research may not be distributed to the public media or quoted or used by the public media without
+the express written consent of Morgan Stanley. Any non-customer reader within the scope of Article 7-1 of the Taiwan Stock Exchange Recommendation
+Regulations accessing and/or receiving Morgan Stanley Research is not permitted to provide Morgan Stanley Research to any third party (including but not
+limited to related parties, affiliated companies and any other third parties) or engage in any activities regarding Morgan Stanley Research which may create or
+give the appearance of creating a conflict of interest. Information on securities/instruments that do not trade in Taiwan is for informational purposes only and is
+not to be construed as a recommendation or a solicitation to trade in such securities/instruments. MSTL may not execute transactions for clients in these
+securities/instruments.
+Morgan Stanley is not incorporated under PRC law and the research in relation to this report is conducted outside the PRC. Morgan Stanley Research does
+not constitute an offer to sell or the solicitation of an offer to buy any securities in the PRC. PRC investors shall have the relevant qualifications to invest in
+such securities and shall be responsible for obtaining all relevant approvals, licenses, verifications and/or registrations from the relevant governmental
+authorities themselves. Neither this report nor any part of it is intended as, or shall constitute, provision of any consultancy or advisory service of securities
+investment as defined under PRC law. Such information is provided for your reference only.
+Morgan Stanley Research is disseminated in Brazil by Morgan Stanley C.T.V.M. S.A. located at Av. Brigadeiro Faria Lima, 3600, 6th floor, São Paulo - SP,
+Brazil; and is regulated by the Comissão de Valores Mobiliários; in Mexico by Morgan Stanley México, Casa de Bolsa, S.A. de C.V which is regulated by
+Comision Nacional Bancaria y de Valores. Paseo de los Tamarindos 90, Torre 1, Col. Bosques de las Lomas Floor 29, 05120 Mexico City; in Japan by
+Morgan Stanley MUFG Securities Co., Ltd. and, for Commodities related research reports only, Morgan Stanley Capital Group Japan Co., Ltd; in Hong Kong
+by Morgan Stanley Asia Limited (which accepts responsibility for its contents) and by Morgan Stanley Bank Asia Limited; in Singapore by Morgan Stanley
+Asia (Singapore) Pte. (Registration number 199206298Z) and/or Morgan Stanley Asia (Singapore) Securities Pte Ltd (Registration number 200008434H),
+regulated by the Monetary Authority of Singapore (which accepts legal responsibility for its contents and should be contacted with respect to any matters
+arising from, or in connection with, Morgan Stanley Research) and by Morgan Stanley Bank Asia Limited, Singapore Branch (Registration number
+T14FC0118J); in Australia to "wholesale clients" within the meaning of the Australian Corporations Act by Morgan Stanley Australia Limited A.B.N. 67 003 734
+576, holder of Australian financial services license No. 233742, which accepts responsibility for its contents; in Australia to "wholesale clients" and "retail
+clients" within the meaning of the Australian Corporations Act by Morgan Stanley Wealth Management Australia Pty Ltd (A.B.N. 19 009 145 555, holder of
+Australian financial services license No. 240813, which accepts responsibility for its contents; in Korea by Morgan Stanley & Co International plc, Seoul
+Branch; in India by Morgan Stanley India Company Private Limited; in Canada by Morgan Stanley Canada Limited; in Germany and the European Economic
+Area where required by Morgan Stanley Europe S.E., authorised and regulated by Bundesanstalt fuer Finanzdienstleistungsaufsicht (BaFin) under the
+reference number 149169; in the US by Morgan Stanley & Co. LLC, which accepts responsibility for its contents. Morgan Stanley & Co. International plc,
+authorized by the Prudential Regulatory Authority and regulated by the Financial Conduct Authority and the Prudential Regulatory Authority, disseminates in
+the UK research that it has prepared, and approves solely for the purposes of section 21 of the Financial Services and Markets Act 2000, research which has
+been prepared by any of its affiliates. RMB Morgan Stanley Proprietary Limited is a member of the JSE Limited and A2X (Pty) Ltd. RMB Morgan Stanley
+Proprietary Limited is a joint venture owned equally by Morgan Stanley International Holdings Inc. and RMB Investment Advisory (Proprietary) Limited, which is
+wholly owned by FirstRand Limited. The information in Morgan Stanley Research is being disseminated by Morgan Stanley Saudi Arabia, regulated by the
+Capital Market Authority in the Kingdom of Saudi Arabia , and is directed at Sophisticated investors only.
+The information in Morgan Stanley Research is being communicated by Morgan Stanley & Co. International plc (DIFC Branch), regulated by the Dubai
+Financial Services Authority (the DFSA), and is directed at Professional Clients only, as defined by the DFSA. The financial products or financial services to
+which this research relates will only be made available to a customer who we are satisfied meets the regulatory criteria to be a Professional Client. A
+distribution of the different MS Research ratings or recommendations, in percentage terms for Investments in each sector covered, is available upon request
+from your sales representative.
+The information in Morgan Stanley Research is being communicated by Morgan Stanley & Co. International plc (QFC Branch), regulated by the Qatar
+Financial Centre Regulatory Authority (the QFCRA), and is directed at business customers and market counterparties only and is not intended for Retail
+Customers as defined by the QFCRA.
+As required by the Capital Markets Board of Turkey, investment information, comments and recommendations stated here, are not within the scope of
+investment advisory activity. Investment advisory service is provided exclusively to persons based on their risk and income preferences by the authorized firms.
+Comments and recommendations stated here are general in nature. These opinions may not fit to your financial status, risk and return preferences. For this
+reason, to make an investment decision by relying solely to this information stated here may not bring about outcomes that fit your expectations.
+The trademarks and service marks contained in Morgan Stanley Research are the property of their respective owners. Third-party data providers make no
+14
+
+warranties or representations relating to the accuracy, completeness, or timeliness of the data they provide and shall not have liability for any damages relating
+to such data. The Global Industry Classification Standard (GICS) was developed by and is the exclusive property of MSCI and S&P.
+Morgan Stanley Research, or any portion thereof may not be reprinted, sold or redistributed without the written consent of Morgan Stanley.
+Indicators and trackers referenced in Morgan Stanley Research may not be used as, or treated as, a benchmark under Regulation EU 2016/1011, or any other
+similar framework.
+The issuers and/or fixed income products recommended or discussed in certain fixed income research reports may not be continuously followed. Accordingly,
+investors should regard those fixed income research reports as providing stand-alone analysis and should not expect continuing analysis or additional reports
+relating to such issuers and/or individual fixed income products.
+Morgan Stanley may hold, from time to time, material financial and commercial interests regarding the company subject to the Research report.
+INDUSTRY COVERAGE: Software
+COMPANY (TICKER)
+
+RATING (AS OF)
+
+PRICE* (01/24/2023)
+
+E (10/25/2021)
+E (10/18/2021)
+E (07/19/2021)
+U (07/28/2022)
+O (07/15/2019)
+E (04/19/2022)
+E (06/06/2022)
+E (07/19/2021)
+E (11/17/2020)
+E (05/19/2022)
+E (07/06/2021)
+O (11/18/2020)
+
+$13.34
+$15.31
+$80.96
+$8.41
+$25.32
+$3.10
+$7.89
+$9.34
+$63.42
+$86.84
+$8.98
+$26.73
+
+U (01/13/2020)
+O (06/06/2022)
+O (10/01/2020)
+E (10/11/2021)
+O (10/07/2022)
+E (03/29/2022)
+++
+E (09/01/2022)
+O (10/10/2017)
+U (02/09/2021)
+E (08/11/2015)
+E (09/09/2020)
+E (01/12/2023)
+E (01/12/2023)
+E (06/27/2022)
+E (01/12/2023)
+
+$128.10
+$104.60
+$136.13
+$19.87
+$51.09
+$22.66
+$24.83
+$68.70
+$151.14
+$110.66
+$34.58
+$7.26
+$14.50
+$39.15
+$25.57
+$122.65
+
+E (11/24/2020)
+E (10/26/2020)
+O (10/03/2022)
+E (11/02/2021)
+O (04/26/2021)
+E (06/17/2022)
+U (07/11/2022)
+E (04/26/2022)
+U (10/03/2022)
+O (12/09/2021)
+E (02/18/2021)
+E (03/16/2021)
+O (05/22/2018)
+O (12/16/2021)
+E (11/23/2021)
+E (06/07/2022)
+
+$7.70
+$13.96
+$31.40
+$20.63
+$14.14
+$6.28
+$28.39
+$35.73
+$57.95
+$26.41
+$17.10
+$6.97
+$42.70
+$21.46
+$11.47
+$10.51
+
+Elizabeth Porter, CFA
+Amplitude Inc. (AMPL.O)
+Freshworks Inc (FRSH.O)
+GoDaddy Inc (GDDY.N)
+LegalZoom.com Inc (LZ.O)
+Liveramp Holdings Inc (RAMP.N)
+Matterport Inc (MTTR.O)
+Semrush Holdings Inc -A (SEMR.N)
+Sprinklr Inc (CXM.N)
+Sprout Social Inc (SPT.O)
+Wix.Com Ltd (WIX.O)
+Zeta Global Holdings Corp (ZETA.N)
+ZoomInfo Technologies Inc (ZI.O)
+
+Hamza Fodderwala
+Check Point Software Technologies Ltd. (CHKP.O)
+CrowdStrike Holdings Inc (CRWD.O)
+CyberArk Software Ltd (CYBR.O)
+ForgeRock Inc (FORG.N)
+Fortinet Inc. (FTNT.O)
+Gen Digital Inc. (GEN.O)
+KnowBe4 (KNBE.O)
+Okta, Inc. (OKTA.O)
+Palo Alto Networks Inc (PANW.O)
+Qualys Inc (QLYS.O)
+Rapid7 Inc (RPD.O)
+Secureworks Corp (SCWX.O)
+SentinelOne, Inc. (S.N)
+Tenable Holdings Inc (TENB.O)
+Varonis Systems, Inc. (VRNS.O)
+Zscaler Inc (ZS.O)
+
+Josh Baer, CFA
+2u Inc (TWOU.O)
+Asana Inc (ASAN.N)
+Box Inc (BOX.N)
+Chegg Inc (CHGG.N)
+Coursera, Inc. (COUR.N)
+Cvent (CVT.O)
+DigitalOcean Holdings Inc (DOCN.N)
+Docebo Inc. (DCBO.O)
+DocuSign Inc (DOCU.O)
+Instructure Holdings Inc (INST.N)
+Lightspeed POS Inc. (LSPD.N)
+Sabre Corp (SABR.O)
+Smartsheet Inc (SMAR.N)
+Toast, Inc. (TOST.N)
+Udemy Inc (UDMY.O)
+WalkMe Ltd (WKME.O)
+
+Keith Weiss, CFA
+
+15
+
+Adobe Inc. (ADBE.O)
+Akamai Technologies, Inc. (AKAM.O)
+Atlassian Corporation PLC (TEAM.O)
+Autodesk (ADSK.O)
+BigCommerce Holdings, Inc. (BIGC.O)
+Bill.com Holdings (BILL.N)
+Cloudflare Inc (NET.N)
+Coupa Software Inc (COUP.O)
+HubSpot, Inc. (HUBS.N)
+Intuit (INTU.O)
+Microsoft (MSFT.O)
+Oracle Corporation (ORCL.N)
+Palantir Technologies Inc. (PLTR.N)
+Qualtrics (XM.O)
+Salesforce.com (CRM.N)
+Samsara Inc (IOT.N)
+ServiceNow Inc (NOW.N)
+Shopify Inc (SHOP.N)
+Snowflake Inc. (SNOW.N)
+Splunk Inc (SPLK.O)
+UiPath Inc (PATH.N)
+Vertex Inc. (VERX.O)
+VMware Inc (VMW.N)
+Workday Inc (WDAY.O)
+
+E (06/21/2022)
+E (04/29/2020)
+O (01/13/2020)
+E (08/19/2021)
+E (05/11/2021)
+O (09/12/2022)
+E (06/18/2020)
+O (04/14/2020)
+O (03/25/2020)
+O (10/05/2020)
+O (01/13/2016)
+E (01/15/2019)
+E (03/07/2022)
+O (12/16/2021)
+O (05/19/2021)
+O (01/10/2022)
+O (11/12/2020)
+E (06/24/2022)
+O (02/07/2022)
+E (04/27/2021)
+E (09/07/2022)
+U (04/07/2021)
+++
+O (04/14/2020)
+
+$361.32
+$87.75
+$151.70
+$206.43
+$11.46
+$108.66
+$46.67
+$79.84
+$346.92
+$401.55
+$242.04
+$89.70
+$7.02
+$11.36
+$154.86
+$13.34
+$443.41
+$42.69
+$145.79
+$92.32
+$14.36
+$12.45
+$125.74
+$172.53
+
+E (01/13/2020)
+E (10/10/2022)
+E (12/16/2021)
+O (12/14/2022)
+O (09/19/2019)
+E (10/11/2022)
+
+$4.88
+$75.19
+$211.09
+$37.97
+$56.41
+$69.43
+
+O (04/27/2021)
+
+$23.81
+
+E (04/01/2021)
+E (12/03/2021)
+U (01/04/2021)
+E (07/19/2021)
+E (08/16/2021)
+O (05/21/2021)
+E (01/20/2023)
+U (07/11/2022)
+E (01/03/2022)
+E (10/12/2020)
+E (11/21/2022)
+E (07/11/2022)
+O (01/20/2023)
+E (11/13/2018)
+E (10/12/2020)
+
+$53.71
+$40.31
+$14.52
+$23.20
+$13.78
+$73.69
+$13.01
+$10.25
+$29.02
+$25.01
+$199.88
+$58.38
+$26.52
+$9.68
+$11.01
+
+Meta A Marshall
+8x8 Inc (EGHT.O)
+Five9 Inc (FIVN.O)
+NICE Ltd. (NICE.O)
+RingCentral Inc (RNG.N)
+Twilio Inc (TWLO.N)
+Zoom Video Communications Inc (ZM.O)
+
+Roy D Campbell
+Karooooo Ltd (KARO.O)
+
+Sanjit K Singh
+Alteryx Inc (AYX.N)
+Appian Corp (APPN.O)
+C3.ai (AI.N)
+Confluent, Inc. (CFLT.O)
+Couchbase, Inc. (BASE.O)
+Datadog, Inc. (DDOG.O)
+Domo Inc (DOMO.O)
+Fastly Inc. (FSLY.N)
+HashiCorp (HCP.O)
+JFrog Ltd. (FROG.O)
+MongoDB Inc (MDB.O)
+New Relic Inc (NEWR.N)
+PagerDuty, Inc. (PD.N)
+Solarwinds Corp (SWI.N)
+Sumo Logic Inc (SUMO.O)
+
+Stock Ratings are subject to change. Please see latest research for each company.
+* Historical prices are not split adjusted.
+
+© 2023 Morgan Stanley
+
+16
+
+
